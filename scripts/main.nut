@@ -2398,7 +2398,7 @@ function exportMapToFile(mapName, data, suffix) {
 
 function ReadTextFromFile(path) {
 	local f = file(path, "rb"), s = "";
-	while (!f.eos()) s += format(@ "%c", f.readn('b'));
+	while (!f.eos()) s += format(@"%c", f.readn('b'));
 	f.close();
 	return s;
 }
