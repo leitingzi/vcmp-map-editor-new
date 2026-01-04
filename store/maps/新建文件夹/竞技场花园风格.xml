@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ASCII" ?>
+	<itemlist>
+		<item model="1836" name="doontoon73b">
+			<position x="-444.859" y="771.699" z="400" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="2176" name="gf_hedge6_01">
+			<position x="-472.859" y="773" z="417.2" />
+			<rotation format="axisangle" x="0" y="0" z="-0.358368" angle="0.93358" />
+		</item>
+		<item model="2176" name="gf_hedge6_01">
+			<position x="-431.059" y="808.6" z="417.2" />
+			<rotation format="axisangle" x="0" y="0" z="-0.27228" angle="-0.962218" />
+		</item>
+		<item model="2176" name="gf_hedge6_01">
+			<position x="-421.059" y="767" z="417.2" />
+			<rotation format="axisangle" x="0" y="0" z="-0.93358" angle="-0.358368" />
+		</item>
+		<item model="2430" name="starfbed03">
+			<position x="-407.132" y="800.201" z="417.19" />
+			<rotation format="axisangle" x="0" y="0" z="-0.346935" angle="0.937889" />
+		</item>
+		<item model="2430" name="starfbed03">
+			<position x="-414.532" y="778.4" z="417.19" />
+			<rotation format="axisangle" x="0" y="0" z="-0.330514" angle="0.943801" />
+		</item>
+		<item model="2430" name="starfbed03">
+			<position x="-423.332" y="757.6" z="416.99" />
+			<rotation format="axisangle" x="0" y="0" z="-0.290702" angle="0.956814" />
+		</item>
+		<item model="2430" name="starfbed03">
+			<position x="-433.532" y="737" z="416.79" />
+			<rotation format="axisangle" x="0" y="0" z="-0.255446" angle="0.966823" />
+		</item>
+		<item model="2430" name="starfbed03">
+			<position x="-453.132" y="728.401" z="416.8" />
+			<rotation format="axisangle" x="0" y="0" z="-0.325569" angle="-0.945518" />
+		</item>
+		<item model="2430" name="starfbed03">
+			<position x="-476.332" y="731.401" z="416.8" />
+			<rotation format="axisangle" x="0" y="0" z="-0.342021" angle="-0.939692" />
+		</item>
+		<item model="2430" name="starfbed03">
+			<position x="-486.932" y="738.401" z="417" />
+			<rotation format="axisangle" x="0" y="0" z="-0.937889" angle="-0.346935" />
+		</item>
+		<item model="2430" name="starfbed03">
+			<position x="-479.732" y="760.001" z="417" />
+			<rotation format="axisangle" x="0" y="0" z="-0.943801" angle="-0.330514" />
+		</item>
+		<item model="2430" name="starfbed03">
+			<position x="-471.132" y="781.601" z="417.2" />
+			<rotation format="axisangle" x="0" y="0" z="-0.954761" angle="-0.297374" />
+		</item>
+		<item model="2430" name="starfbed03">
+			<position x="-461.132" y="801.801" z="417.2" />
+			<rotation format="axisangle" x="0" y="0" z="-0.965017" angle="-0.262189" />
+		</item>
+		<item model="2430" name="starfbed03">
+			<position x="-461.332" y="813.001" z="417.19" />
+			<rotation format="axisangle" x="0" y="0" z="-0.949425" angle="0.313993" />
+		</item>
+		<item model="2430" name="starfbed03">
+			<position x="-438.532" y="811.201" z="417.19" />
+			<rotation format="axisangle" x="0" y="0" z="-0.949425" angle="0.313993" />
+		</item>
+		<item model="2430" name="starfbed03">
+			<position x="-415.932" y="808.601" z="417.19" />
+			<rotation format="axisangle" x="0" y="0" z="-0.937889" angle="0.346936" />
+		</item>
+		<item model="2314" name="ci_fountain">
+			<position x="-442.633" y="733.8" z="420.4" />
+			<rotation format="axisangle" x="0" y="0" z="0.544639" angle="0.838671" />
+		</item>
+		<item model="414" name="parkbench1">
+			<position x="-446" y="745" z="416.8" />
+			<rotation format="axisangle" x="0" y="0" z="0.210472" angle="0.9776" />
+		</item>
+		<item model="414" name="parkbench1">
+			<position x="-442" y="753.6" z="416.8" />
+			<rotation format="axisangle" x="0" y="0" z="0.210472" angle="0.9776" />
+		</item>
+		<item model="414" name="parkbench1">
+			<position x="-437.2" y="763.6" z="417" />
+			<rotation format="axisangle" x="0" y="0" z="0.198513" angle="0.980098" />
+		</item>
+		<item model="414" name="parkbench1">
+			<position x="-433.8" y="771.6" z="417" />
+			<rotation format="axisangle" x="0" y="0" z="0.198513" angle="0.980098" />
+		</item>
+		<item model="414" name="parkbench1">
+			<position x="-428.8" y="783.6" z="417" />
+			<rotation format="axisangle" x="0" y="0" z="0.198513" angle="0.980098" />
+		</item>
+		<item model="414" name="parkbench1">
+			<position x="-424.2" y="793.6" z="417" />
+			<rotation format="axisangle" x="0" y="0" z="0.198513" angle="0.980098" />
+		</item>
+		<item model="2176" name="gf_hedge6_01">
+			<position x="-461.059" y="731.199" z="417.2" />
+			<rotation format="axisangle" x="0.0000000060" y="-0.0000000007" z="0.9612620000" angle="-0.2756370000" />
+		</item>
+		<item model="1087" name="mc_fence2">
+			<position x="-455.866" y="733.785" z="417.199" />
+			<rotation format="axisangle" x="-0.829038" y="-0.559193" z="-7.78373E-009" angle="5.83832E-008" />
+		</item>
+	</itemlist>

@@ -1,0 +1,6 @@
+打开Browser，点击file，点击open database，返回到上一目录，选择database.db，点击打开，打开后点击Browse Data
+Table可以选择表格
+New Record添加数据
+Delete Record删除数据
+选中表格里的内容可以编辑
+建议编辑前备份一份

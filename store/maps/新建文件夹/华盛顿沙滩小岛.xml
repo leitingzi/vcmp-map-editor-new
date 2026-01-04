@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="ASCII" ?>
+	<itemlist>
+		<item model="369" name="bouy">
+			<position x="1425.20037436" y="-1244.33109621" z="6.24489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="369" name="bouy">
+			<position x="1265.18596864" y="-1049.08702683" z="6.24489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="369" name="bouy">
+			<position x="1426.84460263" y="-1101.63891479" z="6.24489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="369" name="bouy">
+			<position x="1444.51401572" y="-1160.20909236" z="6.24489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="369" name="bouy">
+			<position x="1198.60490884" y="-1068.39973639" z="6.24489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="2087" name="gf_smallisland1_01">
+			<position x="1300.14323154" y="-1184.44046628" z="8.44489" />
+			<rotation format="axisangle" x="0" y="0" z="0.669132118225" angle="-0.743143464184" />
+		</item>
+		<item model="369" name="bouy">
+			<position x="1383.38416811" y="-1063.61302521" z="6.24489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="369" name="bouy">
+			<position x="1363.62991867" y="-1291.95270906" z="6.24489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="369" name="bouy">
+			<position x="1291.2374091" y="-1298.64126859" z="6.24489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="369" name="bouy">
+			<position x="1320.81591735" y="-1048.49161588" z="6.24489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="369" name="bouy">
+			<position x="1214.90330608" y="-1279.14234054" z="6.24489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="369" name="bouy">
+			<position x="1168.21149684" y="-1228.26851553" z="6.24489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="369" name="bouy">
+			<position x="1171.89750327" y="-1144.34424188" z="6.24489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="3064" name="washelipad">
+			<position x="1298.4" y="-1165.26" z="8.74489" />
+			<rotation format="axisangle" x="0" y="0" z="0.422620332685" angle="-0.906306821336" />
+		</item>
+		<item model="440" name="veg_tree3">
+			<position x="1310.18772212" y="-1221.71371561" z="8.34489" />
+			<rotation format="axisangle" x="0" y="0" z="0.580702529646" angle="0.814115822265" />
+		</item>
+		<item model="440" name="veg_tree3">
+			<position x="1319.17973891" y="-1177.81184174" z="6.14489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="448" name="veg_palwee01">
+			<position x="1276.53" y="-1255.31" z="8.34489" />
+			<rotation format="axisangle" x="0" y="0" z="0.951056188293" angle="0.30901800386" />
+		</item>
+		<item model="448" name="veg_palwee01">
+			<position x="1301.73109358" y="-1113.55695848" z="6.44489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="447" name="veg_palm03">
+			<position x="1331.13" y="-1185.71" z="8.34489" />
+			<rotation format="axisangle" x="0" y="0" z="0.700908796389" angle="0.713250908969" />
+		</item>
+		<item model="442" name="veg_treeb1">
+			<position x="1335.4474782" y="-1123.93691042" z="6.74489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="363" name="strtbarrier01">
+			<position x="1307.72108926" y="-1155.48364945" z="7.94489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="363" name="strtbarrier01">
+			<position x="1293.59" y="-1147.98" z="7.04489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="363" name="strtbarrier01">
+			<position x="1307.29071601" y="-1178.64299285" z="8.34489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="363" name="strtbarrier01">
+			<position x="1296.98076532" y="-1178.75844579" z="8.34489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="363" name="strtbarrier01">
+			<position x="1288.25511419" y="-1174.62729825" z="7.84489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="363" name="strtbarrier01">
+			<position x="1280.06" y="-1166.82" z="7.44489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="363" name="strtbarrier01">
+			<position x="1274.93" y="-1158.4" z="7.04489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="363" name="strtbarrier01">
+			<position x="1269.16543119" y="-1147.66544397" z="6.54489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="363" name="strtbarrier01">
+			<position x="1274.09014951" y="-1135.9873472" z="6.44489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="363" name="strtbarrier01">
+			<position x="1280.61709674" y="-1141.33727811" z="6.84489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="445" name="veg_palm04">
+			<position x="1282.28581406" y="-1210.59963009" z="6.54489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="636" name="ap_learjet1_01">
+			<position x="1261.74" y="-1273.31" z="2.24489" />
+			<rotation format="axisangle" x="0.249429587281" y="-0.0843795023529" z="-0.0218222427086" angle="-0.964462943972" />
+		</item>
+		<item model="689" name="portcabGAZ06">
+			<position x="1276.2" y="-1202.8" z="10.2449" />
+			<rotation format="axisangle" x="0" y="0" z="0.199367768286" angle="0.979924738421" />
+		</item>
+		<item model="668" name="boatcranelg0">
+			<position x="1268.56114153" y="-1196.4016585" z="10.84489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="687" name="dockfuel02">
+			<position x="1269.13" y="-1214.39" z="15.6449" />
+			<rotation format="axisangle" x="9.13744473135e-05" y="0.0261767667237" z="0.00348945231078" angle="0.99965123531" />
+		</item>
+		<item model="353" name="dump1">
+			<position x="1307.88404286" y="-1222.05555688" z="10.3449" />
+			<rotation format="axisangle" x="0.00350353828486" y="0.00389107831037" z="0.66912097397" angle="0.74313505295" />
+		</item>
+		<item model="363" name="strtbarrier01">
+			<position x="1311.19414648" y="-1167.97072773" z="8.34489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="2387" name="mansion3_B">
+			<position x="1315.77" y="-1198.16" z="15.7449" />
+			<rotation format="axisangle" x="0.00681577107506" y="0.00151101875142" z="0.216434159562" angle="0.976272255399" />
+		</item>
+		<item model="565" name="od_pat_hutb">
+			<position x="1262.44717417" y="-1237.33021695" z="9.34489" />
+			<rotation format="axisangle" x="-0.00257169977989" y="-0.00235637515046" z="-0.675586614514" angle="-0.737272378532" />
+		</item>
+		<item model="405" name="gunbox">
+			<position x="1298.51002027" y="-1209.84688412" z="9.34489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="405" name="gunbox">
+			<position x="1297.88367749" y="-1209.18584013" z="10.54489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="405" name="gunbox">
+			<position x="1297.62716688" y="-1209.83082916" z="9.34489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="405" name="gunbox">
+			<position x="1296.94716733" y="-1209.68214146" z="9.34489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="405" name="gunbox">
+			<position x="1296.78857622" y="-1208.93556933" z="9.34489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="405" name="gunbox">
+			<position x="1297.53373384" y="-1208.68855271" z="9.34489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="405" name="gunbox">
+			<position x="1298.3194312" y="-1208.98805304" z="9.34489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="405" name="gunbox">
+			<position x="1297.2765601" y="-1209.27862263" z="9.94489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="405" name="gunbox">
+			<position x="1298.25376425" y="-1209.17817566" z="9.94489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="467" name="new_bushtest">
+			<position x="1264.13959295" y="-1251.05600663" z="10.1" />
+			<rotation format="axisangle" x="0" y="0" z="0.250379797102" angle="0.9681476939" />
+		</item>
+		<item model="467" name="new_bushtest">
+			<position x="1327.36944481" y="-1135.97147422" z="9.8" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="467" name="new_bushtest">
+			<position x="1270.37466459" y="-1178.64793532" z="9.8" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="467" name="new_bushtest">
+			<position x="1304.38896958" y="-1232.83498687" z="10.1" />
+			<rotation format="axisangle" x="0" y="0" z="0.250379797102" angle="0.9681476939" />
+		</item>
+		<item model="440" name="veg_tree3">
+			<position x="1277.53848016" y="-1120.30306442" z="6.14489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="467" name="new_bushtest">
+			<position x="1291.81228938" y="-1119.19445988" z="9.8" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="910" name="ap_smallradar1">
+			<position x="1316.12" y="-1129.11" z="11.7449" />
+			<rotation format="axisangle" x="-0.0116714930654" y="0.0036118154076" z="0.955206349146" angle="-0.295688284501" />
+		</item>
+		<item model="637" name="ap_radar1_01">
+			<position x="1318.16612844" y="-1125.99229235" z="23.0317" />
+			<rotation format="axisangle" x="0" y="0" z="0.930418170418" angle="-0.366499697349" />
+		</item>
+		<item model="340" name="bollardlight">
+			<position x="1304.23247677" y="-1204.25498029" z="9.54489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="340" name="bollardlight">
+			<position x="1314.79708943" y="-1185.80675979" z="9.34489" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="465" name="kb_planter+bush">
+			<position x="1313.12671465" y="-1187.24127469" z="9.54489" />
+			<rotation format="axisangle" x="0" y="0" z="0.221548313609" angle="0.975149396112" />
+		</item>
+		<item model="465" name="kb_planter+bush">
+			<position x="1305.16" y="-1202.14" z="9.54489" />
+			<rotation format="axisangle" x="0" y="0" z="0.190808836192" angle="0.98162721439" />
+		</item>
+		<item model="465" name="kb_planter+bush">
+			<position x="1306.51" y="-1198.32" z="9.54489" />
+			<rotation format="axisangle" x="0" y="0" z="0.221548313609" angle="0.975149396112" />
+		</item>
+		<item model="465" name="kb_planter+bush">
+			<position x="1311.88372997" y="-1190.49333381" z="9.54489" />
+			<rotation format="axisangle" x="0" y="0" z="0.221548313609" angle="0.975149396112" />
+		</item>
+		<item model="849" name="dock_props02">
+			<position x="1282.67" y="-1226.68" z="10.6449" />
+			<rotation format="axisangle" x="0.0122400208323" y="0.0250957861472" z="0.438199888391" angle="0.898443788571" />
+		</item>
+		<item model="3060" name="stiltsville05">
+			<position x="1328.04" y="-1158.06" z="12.5449" />
+			<rotation format="axisangle" x="0.00526882234694" y="0.00458011179899" z="0.656042585165" angle="0.754691585045" />
+		</item>
+		<item model="943" name="ap_seaplanedock1">
+			<position x="1259.58029131" y="-1136.22575541" z="-3.5988" />
+			<rotation format="axisangle" x="0.0119932144888" y="0.0124628099811" z="0.693297635622" angle="0.720443772695" />
+		</item>
+		<item model="354" name="roadworkbarrier1">
+			<position x="1266.54213555" y="-1125.921419" z="6.34" />
+			<rotation format="axisangle" x="0" y="0" z="0.0958456718116" angle="0.995396206139" />
+		</item>
+		<item model="354" name="roadworkbarrier1">
+			<position x="1259.93215198" y="-1154.9385508" z="7.34" />
+			<rotation format="axisangle" x="0.0081950889003" y="-0.0126192704024" z="0.544579194172" angle="-0.838574442615" />
+		</item>
+		<item model="354" name="roadworkbarrier1">
+			<position x="1266.23524299" y="-1129.0068344" z="6.44" />
+			<rotation format="axisangle" x="0" y="0" z="0.0958456718116" angle="0.995396206139" />
+		</item>
+		<item model="354" name="roadworkbarrier1">
+			<position x="1265.65301344" y="-1132.27956628" z="6.54" />
+			<rotation format="axisangle" x="0" y="0" z="0.0958456718116" angle="0.995396206139" />
+		</item>
+		<item model="354" name="roadworkbarrier1">
+			<position x="1262.06603106" y="-1143.05101442" z="6.84" />
+			<rotation format="axisangle" x="0" y="0" z="0.182235373291" angle="0.983254935773" />
+		</item>
+		<item model="354" name="roadworkbarrier1">
+			<position x="1260.53997479" y="-1146.21729235" z="6.94" />
+			<rotation format="axisangle" x="0" y="0" z="0.182235373291" angle="0.983254935773" />
+		</item>
+		<item model="354" name="roadworkbarrier1">
+			<position x="1259.36580952" y="-1149.61329061" z="7.14" />
+			<rotation format="axisangle" x="0" y="0" z="0.182235373291" angle="0.983254935773" />
+		</item>
+		<item model="354" name="roadworkbarrier1">
+			<position x="1258.40578937" y="-1153.4750984" z="7.34" />
+			<rotation format="axisangle" x="0.0020637381806" y="0.0138088064381" z="0.147794879365" angle="0.988919476744" />
+		</item>
+	</itemlist>
+</xml>

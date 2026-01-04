@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="ASCII" ?>
+<itemlist>
+<item model="1155" name="grounddeath">
+<position x="-66.9381" y="1716.62" z="-10.70" />
+<rotation format="axisangle" x="0.000000" y="0.000000" z="0.00000" angle="1.0" />
+</item>
+<item model="1084" name="walls">
+<position x="-30.0446" y="1680.6" z="7.2" />
+<rotation format="axisangle" x="0.000000" y="0.000000" z="0.00000" angle="1.0" />
+</item>
+<item model="1083" name="Home">
+<position x="-34.6886" y="1763.63" z="7.2" />
+<rotation format="axisangle" x="0" y="0" z="-0.703279" angle="-0.710914" />
+</item>
+<item model="6000" name="obj6000">
+		<position x="355.266" y="162.094" z="1026.78" />
+		<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+	</item>
+	<item model="6001" name="obj6001">
+		<position x="364.727" y="173.891" z="1022.94" />
+		<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+	</item>
+	<item model="6002" name="obj6002">
+		<position x="346.352" y="173.984" z="1013.17" />
+		<rotation format="axisangle" x="0" y="0" z="1" angle="0" />
+	</item>
+	<item model="6003" name="obj6003">
+		<position x="359.852" y="203.711" z="1009.71" />
+		<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+	</item>
+	<item model="6004" name="obj6004">
+		<position x="376.531" y="173.758" z="1012.75" />
+		<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+	</item>
+	<item model="6005" name="obj6005">
+		<position x="374.156" y="158.586" z="1018.08" />
+		<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+	</item>
+	<item model="6006" name="obj6006">
+		<position x="245.047" y="168.672" z="1007.17" />
+		<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+	</item>
+	<item model="6007" name="obj6007">
+		<position x="265.211" y="168.125" z="1007.17" />
+		<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+	</item>
+	<item model="6008" name="obj6018">
+		<position x="246.234" y="117.805" z="1005.61" />
+		<rotation format="axisangle" x="0" y="0" z="1" angle="0" />
+	</item>
+	<item model="6009" name="obj6019">
+		<position x="244.641" y="120.211" z="1003.61" />
+		<rotation format="axisangle" x="0" y="0" z="1" angle="0" />
+	</item>
+	<item model="6010" name="obj6027">
+		<position x="244.883" y="106.883" z="1002.2" />
+		<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+	</item>
+	<item model="6010" name="obj6028">
+		<position x="247.914" y="106.914" z="1002.2" />
+		<rotation format="axisangle" x="0" y="0" z="1" angle="0" />
+	</item>
+	<item model="6011" name="obj6029">
+		<position x="242.141" y="77.313" z="1005.08" />
+		<rotation format="axisangle" x="0" y="0" z="-0.707107" angle="0.707107" />
+	</item>
+	<item model="6010" name="obj6032">
+		<position x="248.312" y="61.938" z="1002.63" />
+		<rotation format="axisangle" x="0" y="0" z="1" angle="0" />
+	</item>
+	<item model="6010" name="obj6033">
+		<position x="245.289" y="61.906" z="1002.63" />
+		<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+	</item>
+<item model="4608" name="obj12">
+<position x="-442.369" y="-355.128" z="-4.9266"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="4620" name="obj13">
+<position x="-438.673" y="-354.083" z="0.49824"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="4599" name="obj14">
+<position x="-436.373" y="-352.183" z="-4.78"/>
+<rotation format="axisangle" x="0" y="0" z="-0.124675" angle="-0.992198"/>
+</item>
+<item model="3811" name="obj15">
+<position x="-436.773" y="-371.183" z="-5.6"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="4590" name="obj16">
+<position x="-425.603" y="-342.183" z="3.05824"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2486" name="obj17">
+<position x="-423.223" y="-338.483" z="3.6"/>
+<rotation format="axisangle" x="0" y="0" z="-0.124675" angle="-0.992198"/>
+</item>
+<item model="2462" name="obj18">
+<position x="-423.603" y="-340.183" z="4.10824"/>
+<rotation format="axisangle" x="0" y="0" z="-0.124675" angle="-0.992198"/>
+</item>
+<item model="2520" name="obj19">
+<position x="-446.603" y="-371.383" z="5.26824"/>
+<rotation format="axisangle" x="0" y="0" z="0.663135" angle="-0.748499"/>
+</item>
+<item model="4543" name="obj20">
+<position x="-441.495" y="-357.159" z="-4.25684"/>
+<rotation format="axisangle" x="0" y="0" z="-0.149438" angle="-0.988771"/>
+</item>
+<item model="4537" name="obj21">
+<position x="-438.851" y="-358.162" z="-4.25684"/>
+<rotation format="axisangle" x="0" y="0" z="-0.149438" angle="-0.988771"/>
+</item>
+<item model="4634" name="obj22">
+<position x="-439.806" y="-364.617" z="-3.15684"/>
+<rotation format="axisangle" x="0" y="0" z="-0.149438" angle="-0.988771"/>
+</item>
+<item model="2528" name="obj23">
+<position x="-421.7" y="-350.019" z="4.51656"/>
+<rotation format="axisangle" x="2.49447e-07" y="2.49447e-07" z="-0.798622" angle="-0.601834"/>
+</item>
+<item model="349" name="obj24">
+<position x="-429.599" y="-350.693" z="2.76656"/>
+<rotation format="axisangle" x="0.0237292" y="0.00305969" z="-0.991538" angle="0.127595"/>
+</item>
+<item model="349" name="obj25">
+<position x="-431.601" y="-349.161" z="2.86212"/>
+<rotation format="axisangle" x="1.78088e-06" y="-1.78088e-06" z="0.783328" angle="0.621609"/>
+</item>
+<item model="349" name="obj26">
+<position x="-431.329" y="-347.248" z="2.76656"/>
+<rotation format="axisangle" x="0" y="0" z="0.598474" angle="-0.801142"/>
+</item>
+<item model="2531" name="obj27">
+<position x="-422.701" y="-337.528" z="3.36155"/>
+<rotation format="axisangle" x="0" y="0" z="-0.0667653" angle="-0.997769"/>
+</item>
+<item model="2541" name="obj28">
+<position x="-428.34" y="-342.982" z="3.61073"/>
+<rotation format="axisangle" x="8.69516e-07" y="8.69516e-07" z="-0.961336" angle="-0.275377"/>
+</item>
+<item model="3673" name="obj46">
+<position x="-865.357" y="-680.682" z="6.50636"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="3676" name="obj47">
+<position x="-861.234" y="-692.877" z="5.9882"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="3672" name="obj48">
+<position x="-868.08" y="-697.879" z="7.97476"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="3674" name="obj49">
+<position x="-849.893" y="-690.256" z="5.04057"/>
+<rotation format="axisangle" x="0" y="0" z="0.342898" angle="-0.939373"/>
+</item>
+<item model="3680" name="obj50">
+<position x="-848.024" y="-705.701" z="3.05236"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2548" name="obj51">
+<position x="-863.629" y="-675.921" z="7.43476"/>
+<rotation format="axisangle" x="1.79245e-06" y="1.79245e-06" z="-0.717354" angle="0.696709"/>
+</item>
+<item model="591" name="obj52">
+<position x="-870.706" y="-683.107" z="4.9282"/>
+<rotation format="axisangle" x="0" y="0" z="-0.699716" angle="-0.714421"/>
+</item>
+<item model="591" name="obj53">
+<position x="-869.303" y="-680.553" z="4.9282"/>
+<rotation format="axisangle" x="-1.26225e-06" y="-1.26225e-06" z="-0.999991" angle="-0.00420388"/>
+</item>
+<item model="2548" name="obj54">
+<position x="-843.682" y="-674.429" z="4.17818"/>
+<rotation format="axisangle" x="-0.500683" y="0.499463" z="0.500568" angle="-0.499284"/>
+</item>
+<item model="4587" name="obj55">
+<position x="-869.009" y="-678.999" z="5.1782"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="4587" name="obj56">
+<position x="-872.243" y="-682.752" z="5.1782"/>
+<rotation format="axisangle" x="0" y="0" z="0.699716" angle="-0.714421"/>
+</item>
+<item model="4715" name="obj57">
+<position x="-861.523" y="-700.018" z="5.43476"/>
+<rotation format="axisangle" x="4.68824e-07" y="4.68824e-07" z="-0.867424" angle="-0.49757"/>
+</item>
+<item model="591" name="obj58">
+<position x="-845.926" y="-689.874" z="3.44744"/>
+<rotation format="axisangle" x="0" y="0" z="-0.699716" angle="-0.714421"/>
+</item>
+<item model="591" name="obj59">
+<position x="-845.93" y="-687.537" z="3.44744"/>
+<rotation format="axisangle" x="0" y="0" z="-0.699716" angle="-0.714421"/>
+</item>
+<item model="4763" name="obj60">
+<position x="-853.465" y="-686.901" z="3.44744"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2548" name="obj61">
+<position x="-844.025" y="-677.774" z="4.17818"/>
+<rotation format="axisangle" x="-0.501946" y="0.512494" z="0.487495" angle="-0.497743"/>
+</item>
+<item model="4551" name="obj62">
+<position x="-842.755" y="-669.384" z="2.07818"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="4551" name="obj63">
+<position x="-860.547" y="-673.869" z="1.2182"/>
+<rotation format="axisangle" x="0.699716" y="0" z="0" angle="-0.714421"/>
+</item>
+<item model="1280" name="obj233">
+<position x="-535.089" y="-291.538" z="-92.194"/>
+<rotation format="axisangle" x="-5.69025e-07" y="-5.69025e-07" z="-0.89499" angle="-0.446087"/>
+</item>
+<item model="2548" name="obj234">
+<position x="-537.383" y="-284.626" z="-91.4853"/>
+<rotation format="axisangle" x="0" y="0" z="0.501213" angle="-0.865324"/>
+</item>
+<item model="2548" name="obj235">
+<position x="-529.472" y="-289.048" z="-91.4858"/>
+<rotation format="axisangle" x="0" y="0" z="0.501213" angle="-0.865324"/>
+</item>
+<item model="2548" name="obj236">
+<position x="-521.825" y="-293.13" z="-91.4843"/>
+<rotation format="axisangle" x="0" y="0" z="0.522687" angle="-0.852525"/>
+</item>
+<item model="2548" name="obj237">
+<position x="-522.02" y="-293.463" z="-91.4834"/>
+<rotation format="axisangle" x="0" y="0" z="-0.247404" angle="-0.968912"/>
+</item>
+<item model="2548" name="obj238">
+<position x="-527.214" y="-303.018" z="-91.483"/>
+<rotation format="axisangle" x="0" y="0" z="-0.271547" angle="-0.962425"/>
+</item>
+<item model="311" name="obj239">
+<position x="-525.17" y="-298.916" z="-92.4828"/>
+<rotation format="axisangle" x="0" y="0" z="0.585097" angle="-0.810963"/>
+</item>
+<item model="2272" name="obj240">
+<position x="-527.727" y="-299.801" z="-93.4845"/>
+<rotation format="axisangle" x="9.59208e-07" y="9.59208e-07" z="-0.975723" angle="-0.219006"/>
+</item>
+<item model="4628" name="obj241">
+<position x="-538.729" y="-287.879" z="-93.9843"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="4791" name="obj242">
+<position x="-539.017" y="-291.386" z="-93.4858"/>
+<rotation format="axisangle" x="1.54562e-06" y="1.54562e-06" z="-0.967864" angle="0.251475"/>
+</item>
+<item model="2273" name="obj243">
+<position x="-528.796" y="-293.626" z="-93.9854"/>
+<rotation format="axisangle" x="0" y="0" z="0.223106" angle="-0.974794"/>
+</item>
+<item model="2273" name="obj244">
+<position x="-538.81" y="-288.058" z="-93.9858"/>
+<rotation format="axisangle" x="9.59208e-07" y="9.59208e-07" z="-0.975723" angle="-0.219006"/>
+</item>
+<item model="2273" name="obj245">
+<position x="-548.815" y="-282.376" z="-93.9858"/>
+<rotation format="axisangle" x="0" y="0" z="0.223106" angle="-0.974794"/>
+</item>
+<item model="4578" name="obj246">
+<position x="-546.101" y="-287.223" z="-92.7358"/>
+<rotation format="axisangle" x="0" y="0" z="0.522687" angle="-0.852525"/>
+</item>
+<item model="4620" name="obj247">
+<position x="-240.611" y="-328.981" z="-7.78752"/>
+<rotation format="axisangle" x="0" y="0" z="-0.271547" angle="-0.962425"/>
+</item>
+<item model="4590" name="obj248">
+<position x="-223.189" y="-325.657" z="-5.26916"/>
+<rotation format="axisangle" x="0" y="0" z="-0.271547" angle="-0.962425"/>
+</item>
+<item model="2548" name="obj249">
+<position x="-219.571" y="-330.449" z="-1.42556"/>
+<rotation format="axisangle" x="0" y="0" z="-0.366273" angle="-0.930508"/>
+</item>
+<item model="4578" name="obj250">
+<position x="-230.752" y="-332.347" z="-4.7692"/>
+<rotation format="axisangle" x="0" y="0" z="0.389418" angle="-0.921061"/>
+</item>
+<item model="4542" name="obj251">
+<position x="-223.433" y="-326.359" z="-4.42379"/>
+<rotation format="axisangle" x="0" y="0" z="-0.389418" angle="-0.921061"/>
+</item>
+<item model="591" name="obj252">
+<position x="-221.506" y="-324.253" z="-4.67561"/>
+<rotation format="axisangle" x="0" y="0" z="-0.389418" angle="-0.921061"/>
+</item>
+<item model="591" name="obj253">
+<position x="-222.656" y="-328.341" z="-4.67567"/>
+<rotation format="axisangle" x="6.80883e-07" y="6.80883e-07" z="-0.92269" angle="-0.385543"/>
+</item>
+<item model="591" name="obj254">
+<position x="-221.805" y="-327.306" z="-4.67461"/>
+<rotation format="axisangle" x="6.80883e-07" y="6.80883e-07" z="-0.92269" angle="-0.385543"/>
+</item>
+<item model="4595" name="obj255">
+<position x="-226.4" y="-334.639" z="-5.5192"/>
+<rotation format="axisangle" x="0" y="0" z="0.389418" angle="-0.921061"/>
+</item>
+<item model="4746" name="obj265">
+<position x="425.922" y="598.029" z="7.42924"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2563" name="obj266">
+<position x="417.681" y="600.991" z="7.24797"/>
+<rotation format="axisangle" x="0" y="0" z="-0.69972" angle="-0.714418"/>
+</item>
+<item model="2563" name="obj267">
+<position x="416.439" y="600.909" z="5.99797"/>
+<rotation format="axisangle" x="-0.526932" y="0.511763" z="0.486769" angle="0.472756"/>
+</item>
+<item model="4407" name="obj268">
+<position x="419.457" y="594.806" z="7.24797"/>
+<rotation format="axisangle" x="0" y="0" z="-0.389418" angle="-0.921061"/>
+</item>
+<item model="4407" name="obj269">
+<position x="424.85" y="594.602" z="7.24797"/>
+<rotation format="axisangle" x="0" y="0" z="-0.412321" angle="-0.911039"/>
+</item>
+<item model="4542" name="obj270">
+<position x="421.367" y="598.69" z="6.74797"/>
+<rotation format="axisangle" x="0" y="0" z="-0.699716" angle="-0.714421"/>
+</item>
+<item model="591" name="obj271">
+<position x="423.455" y="598.741" z="6.49797"/>
+<rotation format="axisangle" x="0" y="0" z="-0.699716" angle="-0.714421"/>
+</item>
+<item model="591" name="obj272">
+<position x="419.268" y="598.458" z="6.49797"/>
+<rotation format="axisangle" x="1.79245e-06" y="1.79245e-06" z="-0.717357" angle="0.696706"/>
+</item>
+<item model="2272" name="obj273">
+<position x="418.876" y="603.223" z="6.49797"/>
+<rotation format="axisangle" x="0" y="0" z="0.47203" angle="-0.881582"/>
+</item>
+<item model="4548" name="obj278">
+<position x="-652.224" y="773.631" z="8.62418"/>
+<rotation format="axisangle" x="-0.00496544" y="-8.77881e-05" z="0.00681904" angle="-0.999964"/>
+</item>
+<item model="3680" name="obj279">
+<position x="-640.557" y="772.295" z="7.90849"/>
+<rotation format="axisangle" x="1.79245e-06" y="1.79245e-06" z="-0.717354" angle="0.696709"/>
+</item>
+<item model="2273" name="obj280">
+<position x="-652.512" y="770.104" z="6.40849"/>
+<rotation format="axisangle" x="0" y="0" z="-0.29552" angle="-0.955337"/>
+</item>
+<item model="2273" name="obj281">
+<position x="-652.042" y="781.757" z="6.40849"/>
+<rotation format="axisangle" x="1.58204e-06" y="1.58204e-06" z="-0.95657" angle="0.291501"/>
+</item>
+<item model="2548" name="obj282">
+<position x="-657.834" y="766.889" z="9.65849"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2483" name="obj283">
+<position x="-652.568" y="770.543" z="10.1585"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="4542" name="obj284">
+<position x="-652.185" y="777.927" z="7.15849"/>
+<rotation format="axisangle" x="1.79245e-06" y="1.79245e-06" z="-0.717357" angle="0.696706"/>
+</item>
+<item model="591" name="obj285">
+<position x="-652.795" y="776.106" z="6.90849"/>
+<rotation format="axisangle" x="-1.26225e-06" y="-1.26225e-06" z="-0.999991" angle="-0.00420388"/>
+</item>
+<item model="591" name="obj286">
+<position x="-651.187" y="776.19" z="6.90849"/>
+<rotation format="axisangle" x="1.27291e-06" y="1.27291e-06" z="-0.999991" angle="0.00420388"/>
+</item>
+<item model="2465" name="obj287">
+<position x="-650.43" y="778.54" z="6.9085"/>
+<rotation format="axisangle" x="1.79245e-06" y="1.79245e-06" z="-0.717357" angle="0.696706"/>
+</item>
+<item model="4545" name="obj288">
+<position x="-649.669" y="769.371" z="3.15849"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2548" name="obj289">
+<position x="-637.499" y="772.885" z="3.95559"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="4628" name="obj290">
+<position x="-650.293" y="772.82" z="0.955517"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="4595" name="obj291">
+<position x="-641.141" y="768.919" z="1.20554"/>
+<rotation format="axisangle" x="1.79245e-06" y="1.79245e-06" z="-0.717354" angle="0.696709"/>
+</item>
+<item model="2527" name="obj292">
+<position x="-668.831" y="772.278" z="2.70551"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2548" name="obj293">
+<position x="-644.13" y="772.875" z="6.10504"/>
+<rotation format="axisangle" x="0" y="0.717356" z="0" angle="-0.696707"/>
+</item>
+<item model="2548" name="obj294">
+<position x="-659.368" y="774.156" z="0.455511"/>
+<rotation format="axisangle" x="0" y="0.734548" z="0" angle="-0.678557"/>
+</item>
+<item model="2462" name="obj295">
+<position x="-671.179" y="776.834" z="1.3977"/>
+<rotation format="axisangle" x="0" y="0" z="-0.00256755" angle="-0.999997"/>
+</item>
+<item model="4542" name="obj296">
+<position x="-672.562" y="773.303" z="1.19618"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2548" name="obj297">
+<position x="-668.892" y="772.219" z="-13.1104"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="4677" name="obj298">
+<position x="-653.242" y="772.828" z="-18.2945"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2541" name="obj299">
+<position x="-673.723" y="776.125" z="0.946181"/>
+<rotation format="axisangle" x="-7.08302e-07" y="-7.08302e-07" z="-0.92896" angle="-0.370181"/>
+</item>
+<item model="2548" name="obj300">
+<position x="-679" y="804.313" z="-17.6104"/>
+<rotation format="axisangle" x="1.27291e-06" y="1.27291e-06" z="-0.999991" angle="0.00420388"/>
+</item>
+<item model="2548" name="obj301">
+<position x="-666.377" y="797.728" z="-18.6104"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2548" name="obj302">
+<position x="-666.717" y="797.818" z="-16.6104"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2548" name="obj303">
+<position x="-629.105" y="781.963" z="-17.3604"/>
+<rotation format="axisangle" x="0" y="0" z="0.699716" angle="-0.714421"/>
+</item>
+<item model="2548" name="obj304">
+<position x="-629.067" y="782.001" z="-14.6104"/>
+<rotation format="axisangle" x="0" y="0" z="0.699716" angle="-0.714421"/>
+</item>
+<item model="2548" name="obj305">
+<position x="-637.76" y="772.559" z="-14.9701"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2548" name="obj306">
+<position x="-637.706" y="774.377" z="-11.7545"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2548" name="obj307">
+<position x="-668.85" y="772.581" z="-15.1104"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2465" name="obj308">
+<position x="-672.115" y="771.61" z="0.94618"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2475" name="obj317">
+<position x="-675.789" y="801.801" z="-28.0004"/>
+<rotation format="axisangle" x="-1.26225e-06" y="-1.26225e-06" z="-0.999991" angle="-0.00420372"/>
+</item>
+<item model="2548" name="obj318">
+<position x="-685.797" y="792.731" z="-27.4604"/>
+<rotation format="axisangle" x="0.717356" y="-9.31323e-09" z="8.88178e-15" angle="-0.696707"/>
+</item>
+<item model="2548" name="obj319">
+<position x="-665.597" y="791.99" z="-24.7104"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2548" name="obj320">
+<position x="-665.482" y="792.965" z="-21.4604"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2475" name="obj321">
+<position x="-675.886" y="824.02" z="-28.0104"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2548" name="obj322">
+<position x="-685.983" y="834.218" z="-23.7204"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2548" name="obj323">
+<position x="-686.081" y="833.88" z="-20.4704"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2548" name="obj324">
+<position x="-665.788" y="833.3" z="-23.7204"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2477" name="obj325">
+<position x="-675.898" y="822.217" z="-27.2204"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2477" name="obj326">
+<position x="-675.989" y="804.21" z="-27.2204"/>
+<rotation format="axisangle" x="1.27291e-06" y="1.27291e-06" z="-0.999991" angle="0.00420388"/>
+</item>
+<item model="1109" name="obj344">
+<position x="-91.9589" y="1585.46" z="18.1385"/>
+<rotation format="axisangle" x="-1.26658e-06" y="1.26658e-06" z="1" angle="-0.00079671"/>
+</item>
+<item model="1081" name="obj345">
+<position x="-45.1985" y="1584.38" z="18.0385"/>
+<rotation format="axisangle" x="4.34127e-07" y="4.34127e-07" z="-0.8573" angle="-0.514818"/>
+</item>
+<item model="1011" name="obj346">
+<position x="-42.045" y="1775.26" z="21.2785"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="1011" name="obj347">
+<position x="-57.6448" y="1775.26" z="12.3787"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="1011" name="obj348">
+<position x="-49.8449" y="1775.26" z="16.7786"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="1011" name="obj349">
+<position x="-9.74714" y="1768.04" z="25.1786"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="865" name="obj350">
+<position x="-3.97632" y="1684.47" z="-4.7891"/>
+<rotation format="axisangle" x="0" y="0" z="-0.681639" angle="-0.731689"/>
+</item>
+<item model="908" name="obj351">
+<position x="-0.507904" y="1638.6" z="8.4386"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="739" name="obj352">
+<position x="-73.2392" y="1714.32" z="7.1109"/>
+<rotation format="axisangle" x="-0.0275252" y="0.0290089" z="0.710905" angle="-0.70215"/>
+</item>
+<item model="738" name="obj353">
+<position x="-68.6331" y="1635.16" z="14.6385"/>
+<rotation format="axisangle" x="-8.83979e-10" y="-9.20032e-10" z="-0.703279" angle="-0.710914"/>
+</item>
+<item model="711" name="obj354">
+<position x="-61.6534" y="1660.17" z="8.6386"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="711" name="obj355">
+<position x="-94.8529" y="1659.47" z="8.6386"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="710" name="obj356">
+<position x="-96.5543" y="1708.04" z="10.3386"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="710" name="obj357">
+<position x="-96.2543" y="1734.84" z="10.3386"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="714" name="obj358">
+<position x="-121.019" y="1655.7" z="8.4386"/>
+<rotation format="axisangle" x="0" y="0" z="0.14112" angle="-0.989992"/>
+</item>
+<item model="876" name="obj359">
+<position x="-108.321" y="1628.43" z="9.2386"/>
+<rotation format="axisangle" x="0" y="0" z="-0.703279" angle="-0.710914"/>
+</item>
+<item model="898" name="obj360">
+<position x="-54.4464" y="1704.88" z="8.4386"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="872" name="obj361">
+<position x="-71.7643" y="1680.58" z="8.6386"/>
+<rotation format="axisangle" x="-1.17691e-06" y="-1.17691e-06" z="-0.997606" angle="-0.0691483"/>
+</item>
+<item model="711" name="obj362">
+<position x="-64.9537" y="1712.53" z="8.4386"/>
+<rotation format="axisangle" x="1.26658e-06" y="1.26658e-06" z="-1" angle="-0.00079642"/>
+</item>
+<item model="901" name="obj363">
+<position x="-105.685" y="1705.7" z="8.8386"/>
+<rotation format="axisangle" x="0" y="0" z="-0.696135" angle="-0.717911"/>
+</item>
+<item model="901" name="obj364">
+<position x="-97.7505" y="1705.82" z="11.9828"/>
+<rotation format="axisangle" x="0" y="0" z="-0.703279" angle="-0.710914"/>
+</item>
+<item model="710" name="obj365">
+<position x="-121.626" y="1685.46" z="10.2386"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="871" name="obj366">
+<position x="-101.886" y="1677.3" z="8.8386"/>
+<rotation format="axisangle" x="0" y="0" z="-0.522687" angle="-0.852525"/>
+</item>
+<item model="711" name="obj367">
+<position x="-67.9087" y="1598.95" z="8.4386"/>
+<rotation format="axisangle" x="0" y="0" z="0.696135" angle="-0.717911"/>
+</item>
+<item model="4490" name="obj368">
+<position x="-97.0099" y="1632.06" z="9.0953"/>
+<rotation format="axisangle" x="0.0639706" y="0.0772795" z="-0.626398" angle="-0.773021"/>
+</item>
+<item model="342" name="obj369">
+<position x="-88.6432" y="1649.84" z="7.8387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="350" name="obj370">
+<position x="-90.5722" y="1649.99" z="7.8387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj371">
+<position x="-105.427" y="1674.46" z="10.942"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj372">
+<position x="-96.6603" y="1694.88" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="-0.00999983" angle="-0.99995"/>
+</item>
+<item model="349" name="obj373">
+<position x="-98.1603" y="1694.88" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="-0.00999983" angle="-0.99995"/>
+</item>
+<item model="349" name="obj374">
+<position x="-99.7602" y="1694.88" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="-0.00999983" angle="-0.99995"/>
+</item>
+<item model="349" name="obj375">
+<position x="-102.96" y="1694.88" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="-0.00999983" angle="-0.99995"/>
+</item>
+<item model="349" name="obj376">
+<position x="-101.36" y="1694.88" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="-0.00999983" angle="-0.99995"/>
+</item>
+<item model="349" name="obj377">
+<position x="-96.6603" y="1694.88" z="9.2387"/>
+<rotation format="axisangle" x="0" y="0" z="-0.00999983" angle="-0.99995"/>
+</item>
+<item model="349" name="obj378">
+<position x="-96.6603" y="1694.88" z="10.4386"/>
+<rotation format="axisangle" x="0" y="0" z="-0.00999983" angle="-0.99995"/>
+</item>
+<item model="349" name="obj379">
+<position x="-98.1603" y="1694.88" z="9.2387"/>
+<rotation format="axisangle" x="0" y="0" z="-0.00999983" angle="-0.99995"/>
+</item>
+<item model="349" name="obj380">
+<position x="-98.1603" y="1694.88" z="10.4386"/>
+<rotation format="axisangle" x="0" y="0" z="-0.00999983" angle="-0.99995"/>
+</item>
+<item model="349" name="obj381">
+<position x="-99.7602" y="1694.88" z="9.0387"/>
+<rotation format="axisangle" x="0" y="0" z="-0.00999983" angle="-0.99995"/>
+</item>
+<item model="349" name="obj382">
+<position x="-95.0603" y="1694.88" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="-0.00999983" angle="-0.99995"/>
+</item>
+<item model="349" name="obj383">
+<position x="-95.0603" y="1694.88" z="9.2387"/>
+<rotation format="axisangle" x="0" y="0" z="-0.00999983" angle="-0.99995"/>
+</item>
+<item model="349" name="obj384">
+<position x="-95.0603" y="1694.88" z="10.4386"/>
+<rotation format="axisangle" x="0" y="0" z="-0.00999983" angle="-0.99995"/>
+</item>
+<item model="349" name="obj385">
+<position x="-93.4603" y="1694.88" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="-0.00999983" angle="-0.99995"/>
+</item>
+<item model="349" name="obj386">
+<position x="-93.4603" y="1694.88" z="9.2387"/>
+<rotation format="axisangle" x="0" y="0" z="-0.00999983" angle="-0.99995"/>
+</item>
+<item model="349" name="obj387">
+<position x="-91.8604" y="1694.88" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="-0.00999983" angle="-0.99995"/>
+</item>
+<item model="349" name="obj388">
+<position x="-90.2604" y="1694.88" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="-0.00999983" angle="-0.99995"/>
+</item>
+<item model="349" name="obj389">
+<position x="-96.6603" y="1694.88" z="11.6386"/>
+<rotation format="axisangle" x="0" y="0" z="-0.00999983" angle="-0.99995"/>
+</item>
+<item model="344" name="obj390">
+<position x="-103.059" y="1685.74" z="7.6387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="332" name="obj391">
+<position x="-100.806" y="1691.13" z="7.3387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="332" name="obj392">
+<position x="-103.906" y="1689.73" z="7.3387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="342" name="obj393">
+<position x="-75.3451" y="1675.6" z="7.8387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="525" name="obj394">
+<position x="-84.7188" y="1663.87" z="10.0386"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="414" name="obj395">
+<position x="-83.282" y="1663.73" z="7.8387"/>
+<rotation format="axisangle" x="1.26658e-06" y="1.26658e-06" z="-1" angle="-0.000796495"/>
+</item>
+<item model="450" name="obj396">
+<position x="-69.9963" y="1676.58" z="8.2387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="711" name="obj397">
+<position x="-117.119" y="1733.86" z="8.4387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="370" name="obj398">
+<position x="-106.795" y="1724.9" z="8.2387"/>
+<rotation format="axisangle" x="0" y="0" z="-0.688921" angle="-0.724836"/>
+</item>
+<item model="370" name="obj399">
+<position x="-110.595" y="1724.9" z="8.2387"/>
+<rotation format="axisangle" x="0" y="0" z="-0.688921" angle="-0.724836"/>
+</item>
+<item model="849" name="obj400">
+<position x="-124.992" y="1711.43" z="9.5387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj401">
+<position x="-116.157" y="1719.98" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="451" name="obj402">
+<position x="-107.296" y="1719.19" z="9.4387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="465" name="obj403">
+<position x="-110.095" y="1719.19" z="8.1387"/>
+<rotation format="axisangle" x="4.41003e-08" y="4.41003e-08" z="-0.724288" angle="-0.689497"/>
+</item>
+<item model="465" name="obj404">
+<position x="-111.277" y="1759.16" z="8.1387"/>
+<rotation format="axisangle" x="8.25179e-09" y="8.25179e-09" z="-0.710354" angle="-0.703844"/>
+</item>
+<item model="465" name="obj405">
+<position x="-99.2768" y="1759.36" z="8.1387"/>
+<rotation format="axisangle" x="-8.25179e-09" y="-8.25179e-09" z="-0.710354" angle="-0.703844"/>
+</item>
+<item model="350" name="obj406">
+<position x="-94.5672" y="1748.37" z="7.8387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="450" name="obj407">
+<position x="-97.9911" y="1748.4" z="8.2387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="342" name="obj408">
+<position x="-113.767" y="1740.64" z="7.9387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="1728" name="obj409">
+<position x="-75.6302" y="1722.42" z="8.3387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="1729" name="obj410">
+<position x="-71.6501" y="1722.43" z="8.3387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="1728" name="obj411">
+<position x="-73.8302" y="1722.42" z="8.3387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="4580" name="obj412">
+<position x="-79.1351" y="1722.65" z="9.0387"/>
+<rotation format="axisangle" x="8.03224e-07" y="8.03224e-07" z="-0.948985" angle="-0.315323"/>
+</item>
+<item model="4580" name="obj413">
+<position x="-86.935" y="1722.45" z="9.0387"/>
+<rotation format="axisangle" x="2.77203e-08" y="-2.76762e-08" z="0.316078" angle="-0.948733"/>
+</item>
+<item model="450" name="obj414">
+<position x="-66.7071" y="1705.07" z="8.1387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj415">
+<position x="-88.6917" y="1705.67" z="7.9387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj416">
+<position x="-88.6917" y="1707.37" z="7.9387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj417">
+<position x="-88.6917" y="1704.07" z="7.9387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj418">
+<position x="-88.6917" y="1705.67" z="9.1387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj419">
+<position x="-72.9581" y="1708.25" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj420">
+<position x="-74.358" y="1708.25" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj421">
+<position x="-75.758" y="1708.25" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj422">
+<position x="-73.9708" y="1714.46" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="350" name="obj423">
+<position x="-56.4773" y="1725.32" z="7.8387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="1091" name="obj424">
+<position x="19.8256" y="1718.42" z="10.5386"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="1092" name="obj425">
+<position x="7.59269" y="1704.66" z="10.4386"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="1124" name="obj426">
+<position x="53.3424" y="1599.58" z="9.8386"/>
+<rotation format="axisangle" x="2.61774e-08" y="2.61774e-08" z="-0.717357" angle="-0.696706"/>
+</item>
+<item model="1124" name="obj427">
+<position x="54.1424" y="1643.17" z="9.8386"/>
+<rotation format="axisangle" x="-2.61774e-08" y="-2.61774e-08" z="-0.717357" angle="-0.696706"/>
+</item>
+<item model="1090" name="obj428">
+<position x="31.2152" y="1679.66" z="10.0386"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="1113" name="obj429">
+<position x="29.5562" y="1641.99" z="8.4387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="1011" name="obj430">
+<position x="19.0988" y="1572.64" z="8.8387"/>
+<rotation format="axisangle" x="1.26658e-06" y="1.26658e-06" z="-1" angle="-0.000796505"/>
+</item>
+<item model="1123" name="obj431">
+<position x="20.2182" y="1653.42" z="10.6386"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="1123" name="obj432">
+<position x="20.3182" y="1633.12" z="10.6386"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="1123" name="obj433">
+<position x="20.3182" y="1611.03" z="10.6386"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="1123" name="obj434">
+<position x="20.3182" y="1589.63" z="10.6386"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="1113" name="obj435">
+<position x="29.1724" y="1599.71" z="8.4387"/>
+<rotation format="axisangle" x="0" y="0" z="-0.00999983" angle="-0.99995"/>
+</item>
+<item model="1090" name="obj436">
+<position x="-41.1195" y="1625.56" z="10.0386"/>
+<rotation format="axisangle" x="8.25179e-09" y="8.25179e-09" z="-0.710354" angle="-0.703844"/>
+</item>
+<item model="349" name="obj437">
+<position x="-117.195" y="1640.35" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj438">
+<position x="-119.195" y="1640.35" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj439">
+<position x="-119.595" y="1643.45" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="468" name="obj440">
+<position x="0.530942" y="1731.8" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="-0.703283" angle="-0.71091"/>
+</item>
+<item model="468" name="obj441">
+<position x="15.431" y="1732" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="-0.703283" angle="-0.71091"/>
+</item>
+<item model="712" name="obj442">
+<position x="-70.5848" y="1618.51" z="9.8386"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="344" name="obj443">
+<position x="-48.0498" y="1620.47" z="7.6387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="347" name="obj444">
+<position x="-46.2249" y="1615.99" z="7.8387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="342" name="obj445">
+<position x="-73.6381" y="1605.4" z="7.8387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="354" name="obj446">
+<position x="-80.2431" y="1621.38" z="7.8387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="354" name="obj447">
+<position x="-80.2431" y="1619.28" z="7.8387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="350" name="obj448">
+<position x="-71.1241" y="1618.58" z="7.8387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="350" name="obj449">
+<position x="-74.324" y="1618.58" z="7.8387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="350" name="obj450">
+<position x="-74.324" y="1622.98" z="7.8387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="342" name="obj451">
+<position x="-72.8615" y="1618.6" z="7.8387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj452">
+<position x="-64.9387" y="1620.76" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj453">
+<position x="-36.8261" y="1584.7" z="7.9387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj454">
+<position x="-35.3262" y="1584.7" z="7.9387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj455">
+<position x="-33.8262" y="1584.7" z="7.9387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj456">
+<position x="-32.2262" y="1584.7" z="7.9387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj457">
+<position x="-30.5262" y="1584.7" z="7.9387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj458">
+<position x="-28.7262" y="1584.7" z="7.9387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj459">
+<position x="-25.5262" y="1584.7" z="7.9387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj460">
+<position x="-27.1262" y="1584.7" z="7.9387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj461">
+<position x="-25.5063" y="1571.71" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj462">
+<position x="-27.0063" y="1571.71" z="8.0387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj463">
+<position x="-28.5063" y="1571.71" z="7.9387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj464">
+<position x="-27.0063" y="1571.71" z="9.2387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="453" name="obj465">
+<position x="-60.0661" y="1690.28" z="9.3387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="500" name="obj466">
+<position x="-68.7675" y="1640.93" z="7.4387"/>
+<rotation format="axisangle" x="1.2792e-06" y="1.2792e-06" z="-0.999958" angle="0.00920337"/>
+</item>
+<item model="456" name="obj467">
+<position x="-72.2526" y="1640.15" z="8.3387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="456" name="obj468">
+<position x="-63.6408" y="1639.95" z="8.3387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="349" name="obj469">
+<position x="-74.512" y="1658.6" z="7.9387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="344" name="obj470">
+<position x="-63.7562" y="1751.37" z="7.6387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="342" name="obj471">
+<position x="-65.3274" y="1725.36" z="7.8387"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="3583" name="obj472">
+<position x="392.19" y="-502.416" z="9.64561"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="4486" name="obj473">
+<position x="383.243" y="140.789" z="1002.01"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="305" name="obj474">
+<position x="191.288" y="163.801" z="1002.06"/>
+<rotation format="axisangle" x="-0.00128581" y="0.710269" z="-0.703918" angle="-0.00397937"/>
+</item>
+<item model="305" name="obj475">
+<position x="191.288" y="173.902" z="1002.06"/>
+<rotation format="axisangle" x="-0.00128581" y="0.710269" z="-0.703918" angle="-0.00397937"/>
+</item>
+<item model="303" name="obj476">
+<position x="186.94" y="163.961" z="1002.03"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="303" name="obj477">
+<position x="187.94" y="163.961" z="1002.03"/>
+<rotation format="axisangle" x="2.61774e-08" y="2.61774e-08" z="-0.717357" angle="-0.696706"/>
+</item>
+<item model="303" name="obj478">
+<position x="187.798" y="172.522" z="1001.99"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="303" name="obj479">
+<position x="187.798" y="172.522" z="1001.99"/>
+<rotation format="axisangle" x="0" y="0" z="0.706896" angle="-0.707318"/>
+</item>
+<item model="6010" name="obj480">
+<position x="287.23" y="166.524" z="1006.19"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="6010" name="obj481">
+<position x="288.73" y="166.524" z="1006.19"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="6010" name="obj482">
+<position x="237.133" y="138.244" z="1002.01"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="6010" name="obj483">
+<position x="238.633" y="138.244" z="1002.01"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="2941" name="obj484">
+<position x="-249.223" y="-1360.73" z="6.81296"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+<item model="3003" name="obj485">
+<position x="-249.223" y="-1360.73" z="6.81296"/>
+<rotation format="axisangle" x="0" y="0" z="0" angle="-1"/>
+</item>
+	
+</itemlist>

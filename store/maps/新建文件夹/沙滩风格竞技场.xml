@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="ASCII" ?>
+	<itemlist>
+		<item model="4276" name="nbeachb1">
+			<position x="1373" y="1258" z="400" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="449" name="veg_palwee02">
+			<position x="1285.95" y="1265.7" z="412" />
+			<rotation format="axisangle" x="0" y="0" z="-0.0108746" angle="0.999941" />
+		</item>
+		<item model="478" name="veg_palm01">
+			<position x="1289.55" y="1244.7" z="412" />
+			<rotation format="axisangle" x="0" y="0" z="-0.999814" angle="0.0192637" />
+		</item>
+		<item model="449" name="veg_palwee02">
+			<position x="1321.15" y="1241.7" z="412" />
+			<rotation format="axisangle" x="0" y="0" z="-0.0108746" angle="0.999941" />
+		</item>
+		<item model="449" name="veg_palwee02">
+			<position x="1337.95" y="1265.7" z="412" />
+			<rotation format="axisangle" x="0" y="0" z="-0.0108746" angle="0.999941" />
+		</item>
+		<item model="449" name="veg_palwee02">
+			<position x="1351.95" y="1240.5" z="412" />
+			<rotation format="axisangle" x="0" y="0" z="-0.0108746" angle="0.999941" />
+		</item>
+		<item model="449" name="veg_palwee02">
+			<position x="1367.95" y="1265.7" z="412" />
+			<rotation format="axisangle" x="0" y="0" z="-0.0108746" angle="0.999941" />
+		</item>
+		<item model="478" name="veg_palm01">
+			<position x="1394.75" y="1261.9" z="412" />
+			<rotation format="axisangle" x="0" y="0" z="-0.0156411" angle="0.999878" />
+		</item>
+		<item model="449" name="veg_palwee02">
+			<position x="1397.95" y="1240.5" z="412" />
+			<rotation format="axisangle" x="0" y="0" z="-0.0108746" angle="0.999941" />
+		</item>
+		<item model="565" name="od_pat_hutb">
+			<position x="1280.75" y="1256.24" z="413.8" />
+			<rotation format="axisangle" x="0" y="0" z="-0.898794" angle="0.438371" />
+		</item>
+		<item model="565" name="od_pat_hutb">
+			<position x="1405.1" y="1252.76" z="413.8" />
+			<rotation format="axisangle" x="0" y="0" z="0.292372" angle="0.956305" />
+		</item>
+		<item model="4073" name="nbt_mansiontrees04">
+			<position x="1352.55" y="1255.5" z="414" />
+			<rotation format="axisangle" x="0" y="0" z="-0.704634" angle="0.709571" />
+		</item>
+		<item model="4073" name="nbt_mansiontrees04">
+			<position x="1339.95" y="1250.3" z="414" />
+			<rotation format="axisangle" x="0" y="0" z="0.681998" angle="0.731354" />
+		</item>
+		<item model="386" name="Stonebench1">
+			<position x="1317.35" y="1267.1" z="413.3" />
+			<rotation format="axisangle" x="0" y="0" z="-0.819152" angle="0.573576" />
+		</item>
+		<item model="386" name="Stonebench1">
+			<position x="1369.95" y="1241.1" z="413.4" />
+			<rotation format="axisangle" x="0" y="0" z="0.615662" angle="0.788011" />
+		</item>
+		<item model="358" name="Streetlamp1">
+			<position x="1289.35" y="1253.3" z="415.2" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="358" name="Streetlamp1">
+			<position x="1298.35" y="1242.9" z="415.2" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="358" name="Streetlamp1">
+			<position x="1312.35" y="1242.9" z="415.2" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="358" name="Streetlamp1">
+			<position x="1326.35" y="1242.9" z="415.2" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="358" name="Streetlamp1">
+			<position x="1340.35" y="1242.9" z="415.2" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="358" name="Streetlamp1">
+			<position x="1350.35" y="1242.9" z="415.2" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="358" name="Streetlamp1">
+			<position x="1362.35" y="1242.9" z="415.2" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="358" name="Streetlamp1">
+			<position x="1374.35" y="1242.9" z="415.2" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="358" name="Streetlamp1">
+			<position x="1386.35" y="1242.9" z="415.2" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="358" name="Streetlamp1">
+			<position x="1394.35" y="1252.9" z="415.2" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="358" name="Streetlamp1">
+			<position x="1386.35" y="1263.5" z="415.2" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="358" name="Streetlamp1">
+			<position x="1374.35" y="1263.5" z="415.2" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="358" name="Streetlamp1">
+			<position x="1362.35" y="1263.5" z="415.2" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="358" name="Streetlamp1">
+			<position x="1350.35" y="1263.5" z="415.2" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="358" name="Streetlamp1">
+			<position x="1340.35" y="1263.5" z="415.2" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="358" name="Streetlamp1">
+			<position x="1326.35" y="1263.5" z="415.2" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="358" name="Streetlamp1">
+			<position x="1312.35" y="1263.5" z="415.2" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="358" name="Streetlamp1">
+			<position x="1298.35" y="1263.5" z="415.2" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="1087" name="mc_fence2">
+			<position x="1305.71" y="1262.12" z="414.4" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="1087" name="mc_fence2">
+			<position x="1305.71" y="1244.38" z="414.4" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="310" name="phils_compnd_gate">
+			<position x="1290.71" y="1253.14" z="412.58" />
+			<rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107" />
+		</item>
+		<item model="310" name="phils_compnd_gate">
+			<position x="1290.71" y="1262" z="412.58" />
+			<rotation format="axisangle" x="0" y="0" z="0.707107" angle="0.707107" />
+		</item>
+		<item model="310" name="phils_compnd_gate">
+			<position x="1392.91" y="1244.35" z="412.58" />
+			<rotation format="axisangle" x="0" y="0" z="-0.707107" angle="0.707107" />
+		</item>
+		<item model="310" name="phils_compnd_gate">
+			<position x="1392.91" y="1253.2" z="412.58" />
+			<rotation format="axisangle" x="0" y="0" z="-0.707107" angle="0.707107" />
+		</item>
+		<item model="537" name="turtle">
+			<position x="1302.55" y="1242.1" z="413.06" />
+			<rotation format="axisangle" x="0" y="0" z="-0.438371" angle="0.898794" />
+		</item>
+		<item model="537" name="turtle">
+			<position x="1330.55" y="1242.1" z="413.06" />
+			<rotation format="axisangle" x="0" y="0" z="-0.601815" angle="0.798635" />
+		</item>
+		<item model="537" name="turtle">
+			<position x="1354.55" y="1266.3" z="413.06" />
+			<rotation format="axisangle" x="0" y="0" z="0.829038" angle="0.559193" />
+		</item>
+		<item model="537" name="turtle">
+			<position x="1378.55" y="1264.1" z="413.06" />
+			<rotation format="axisangle" x="0" y="0" z="0.829038" angle="0.559193" />
+		</item>
+		<item model="470" name="kb_canopy_test">
+			<position x="1337.95" y="1263.94" z="414.2" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="470" name="kb_canopy_test">
+			<position x="1337.95" y="1242.2" z="414.2" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+	</itemlist>

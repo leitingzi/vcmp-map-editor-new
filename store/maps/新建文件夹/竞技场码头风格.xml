@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="ASCII" ?>
+	<itemlist>
+		<item model="648" name="docks29">
+			<position x="-1074.53" y="-1341.8" z="399.93" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="667" name="doc_shedbig30">
+			<position x="-1161.04" y="-1381.6" z="418.6" />
+			<rotation format="axisangle" x="0" y="0" z="0.186524" angle="0.98245" />
+		</item>
+		<item model="932" name="ap_seaplanehanger1">
+			<position x="-1197.99" y="-1362.19" z="412.199" />
+			<rotation format="axisangle" x="0" y="0" z="0.220697" angle="0.975342" />
+		</item>
+		<item model="931" name="ap_seaplaland1">
+			<position x="-1182.72" y="-1295.54" z="409.1" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="888" name="ap_subfraightback04">
+			<position x="-1129.24" y="-1216.36" z="412.6" />
+			<rotation format="axisangle" x="0" y="0" z="0.2292" angle="0.973379" />
+		</item>
+		<item model="972" name="ap_wallfence7">
+			<position x="-1142.86" y="-1226.29" z="412.65" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="430" name="sub_floodlite">
+			<position x="-1146.57" y="-1234.05" z="422" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="646" name="docks10">
+			<position x="-943.984" y="-1348.78" z="421.2" />
+			<rotation format="axisangle" x="0" y="0" z="0.190809" angle="0.981627" />
+		</item>
+		<item model="309" name="Columbian_gate">
+			<position x="-987.41" y="-1247.71" z="409" />
+			<rotation format="axisangle" x="0" y="0" z="-0.56928" angle="0.822144" />
+		</item>
+		<item model="686" name="dkshipment01">
+			<position x="-1090.21" y="-1434.31" z="411" />
+			<rotation format="axisangle" x="0" y="0" z="-0.980785" angle="0.19509" />
+		</item>
+		<item model="812" name="rustship_structure0">
+			<position x="-1106.77" y="-1476.68" z="418.6" />
+			<rotation format="axisangle" x="0" y="0" z="0.190809" angle="0.981627" />
+		</item>
+		<item model="668" name="boatcranelg0">
+			<position x="-1116.8" y="-1450.4" z="420.2" />
+			<rotation format="axisangle" x="0" y="0" z="0.939693" angle="0.34202" />
+		</item>
+		<item model="915" name="ap_midtank1">
+			<position x="-1123.18" y="-1347.78" z="411.401" />
+			<rotation format="axisangle" x="0" y="0" z="0.978148" angle="-0.207912" />
+		</item>
+		<item model="912" name="ap_oiltank1_01">
+			<position x="-1093.42" y="-1307.51" z="410.8" />
+			<rotation format="axisangle" x="0" y="0" z="-0.190809" angle="-0.981627" />
+		</item>
+		<item model="913" name="ap_oilpipes1">
+			<position x="-1078.99" y="-1269.34" z="411.4" />
+			<rotation format="axisangle" x="0" y="0" z="0.190809" angle="0.981627" />
+		</item>
+		<item model="914" name="ap_flargetank1">
+			<position x="-1093.74" y="-1265.55" z="421.8" />
+			<rotation format="axisangle" x="0" y="0" z="0.190809" angle="0.981627" />
+		</item>
+		<item model="726" name="docksware01">
+			<position x="-1015.2" y="-1196.81" z="418.4" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="1019" name="ap_dockwall1">
+			<position x="-1096.12" y="-1186.96" z="412.5" />
+			<rotation format="axisangle" x="0" y="0" z="0.00174533" angle="0.999998" />
+		</item>
+		<item model="1087" name="mc_fence2">
+			<position x="-1122.45" y="-1407.96" z="409.6" />
+			<rotation format="axisangle" x="0" y="0" z="-0.573576" angle="0.819152" />
+		</item>
+		<item model="1087" name="mc_fence2">
+			<position x="-1106.45" y="-1415.36" z="409.6" />
+			<rotation format="axisangle" x="0" y="0" z="-0.573576" angle="0.819152" />
+		</item>
+		<item model="310" name="phils_compnd_gate">
+			<position x="-1119.45" y="-1425.76" z="407.9" />
+			<rotation format="axisangle" x="0" y="0" z="0.21644" angle="0.976296" />
+		</item>
+		<item model="310" name="phils_compnd_gate">
+			<position x="-1127.47" y="-1422" z="407.9" />
+			<rotation format="axisangle" x="0" y="0" z="0.21644" angle="0.976296" />
+		</item>
+		<item model="310" name="phils_compnd_gate">
+			<position x="-1076.48" y="-1333.39" z="407.6" />
+			<rotation format="axisangle" x="0" y="0" z="-0.978147" angle="0.207912" />
+		</item>
+		<item model="310" name="phils_compnd_gate">
+			<position x="-1084.55" y="-1329.8" z="407.6" />
+			<rotation format="axisangle" x="0" y="0" z="-0.978147" angle="0.207912" />
+		</item>
+		<item model="1087" name="mc_fence2">
+			<position x="-1171.33" y="-1415.6" z="408.33" />
+			<rotation format="axisangle" x="-0.980615" y="0.195946" z="3.90035E-008" angle="1.5796E-007" />
+		</item>
+	</itemlist>
