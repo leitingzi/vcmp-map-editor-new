@@ -1,77 +1,77 @@
-æ­¤è„šæœ¬ç”±pqåˆ¶ä½œï¼Œä¸»è¦åŠŸèƒ½æ˜¯åˆ›å»ºåœ°å›¾ï¼Œå¯¼å‡ºæ¥çš„ä»£ç ä¼šä¿å­˜åœ¨exportæ–‡ä»¶å¤¹ä¸­ï¼Œä»¥åœ°å›¾çš„åå­—å‘½åã€‚
-é‡åˆ°ä»»ä½•å·¥å…·é—®é¢˜ï¼Œå¯ä»¥åé¦ˆç»™ä½œè€…pqï¼Œä½œè€…é‚®ç®±:ï¼š553387747@qq.com
+´Ë½Å±¾ÓÉpqÖÆ×÷£¬Ö÷Òª¹¦ÄÜÊÇ´´½¨µØÍ¼£¬µ¼³öÀ´µÄ´úÂë»á±£´æÔÚexportÎÄ¼þ¼ÐÖÐ£¬ÒÔµØÍ¼µÄÃû×ÖÃüÃû¡£
+Óöµ½ÈÎºÎ¹¤¾ßÎÊÌâ£¬¿ÉÒÔ·´À¡¸ø×÷Õßpq£¬×÷ÕßÓÊÏä:£º553387747@qq.com
 
-è¿›å…¥æµç¨‹ï¼š
-è¿è¡Œserver64.exe -> æ‰“å¼€è”æœºå·¥å…·ï¼Œæ·»åŠ IPï¼š127.0.0.1:8192 -> è¿›å…¥æœåŠ¡å™¨ -> æ ¹æ®è¯´æ˜Žä¹¦è¿›è¡Œæ“ä½œ
+½øÈëÁ÷³Ì£º
+ÔËÐÐserver64.exe -> ´ò¿ªÁª»ú¹¤¾ß£¬Ìí¼ÓIP£º127.0.0.1:8192 -> ½øÈë·þÎñÆ÷ -> ¸ù¾ÝËµÃ÷Êé½øÐÐ²Ù×÷
 
-åˆ›å»ºæ–¹æ³•ï¼š
-ä½ å¿…é¡»å…ˆåˆ›å»ºåœ°å›¾æ‰èƒ½æ·»åŠ å»ºç­‘ï¼
-è¾“å…¥æŒ‡ä»¤åˆ›å»ºåœ°å›¾/createmap test  #æˆ‘ä»¬åˆ›å»ºäº†ä¸€å¼ åä¸ºtestçš„åœ°å›¾ï¼ŒçŽ°åœ¨å¯ä»¥åœ¨è¿™å¼ åœ°å›¾ä¸Šæ·»åŠ å»ºç­‘äº†
-è¾“å…¥æŒ‡ä»¤æ·»åŠ å»ºç­‘/addobj 398 #æˆ‘ä»¬åˆ›å»ºäº†ä¸€è¢‹åžƒåœ¾ï¼Œ398æ˜¯åžƒåœ¾è¢‹æ¨¡åž‹ï¼Œæˆ‘ä»¬å¯ä»¥æŒ‰ä¸‹ä¸Šä¸‹å·¦å³ï¼ŒPageUpå’ŒPageDownè¿›è¡ŒæŽ§åˆ¶ï¼ŒæŒ‰1åˆ‡æ¢æŽ§åˆ¶é€Ÿåº¦ï¼ŒæŒ‰2åˆ‡æ¢æŽ§åˆ¶æ¨¡å¼(ç§»åŠ¨å’Œæ—‹è½¬)ï¼Œç¼–è¾‘å¥½åŽæŒ‰ä¸‹backspaceæ¥å–æ¶ˆé€‰æ‹©
-æ·»åŠ äº†ä¸€äº›å»ºç­‘åŽï¼Œè¾“å…¥/savemap æ¥ä¿å­˜åœ°å›¾ï¼Œ/closemap æ¥å…³é—­åœ°å›¾ï¼Œåœ°å›¾å…³é—­åŽå°±ä¸èƒ½å†æ·»åŠ å»ºç­‘äº†
-ä½ å¯ä»¥è¾“å…¥/loadmap test æ¥åŠ è½½åˆšæ‰å…³é—­çš„åœ°å›¾ï¼Œç„¶åŽ/exportmap å¯¹åœ°å›¾è¿›è¡Œå¯¼å‡ºï¼Œå¯¼å‡ºæ¥çš„æ–‡ä»¶ä¼šå‚¨å­˜åœ¨exportæ–‡ä»¶å¤¹é‡Œ
+´´½¨·½·¨£º
+Äã±ØÐëÏÈ´´½¨µØÍ¼²ÅÄÜÌí¼Ó½¨Öþ£¡
+ÊäÈëÖ¸Áî´´½¨µØÍ¼/createmap test  #ÎÒÃÇ´´½¨ÁËÒ»ÕÅÃûÎªtestµÄµØÍ¼£¬ÏÖÔÚ¿ÉÒÔÔÚÕâÕÅµØÍ¼ÉÏÌí¼Ó½¨ÖþÁË
+ÊäÈëÖ¸ÁîÌí¼Ó½¨Öþ/addobj 398 #ÎÒÃÇ´´½¨ÁËÒ»´üÀ¬»ø£¬398ÊÇÀ¬»ø´üÄ£ÐÍ£¬ÎÒÃÇ¿ÉÒÔ°´ÏÂÉÏÏÂ×óÓÒ£¬PageUpºÍPageDown½øÐÐ¿ØÖÆ£¬°´1ÇÐ»»¿ØÖÆËÙ¶È£¬°´2ÇÐ»»¿ØÖÆÄ£Ê½(ÒÆ¶¯ºÍÐý×ª)£¬±à¼­ºÃºó°´ÏÂbackspaceÀ´È¡ÏûÑ¡Ôñ
+Ìí¼ÓÁËÒ»Ð©½¨Öþºó£¬ÊäÈë/savemap À´±£´æµØÍ¼£¬/closemap À´¹Ø±ÕµØÍ¼£¬µØÍ¼¹Ø±Õºó¾Í²»ÄÜÔÙÌí¼Ó½¨ÖþÁË
+Äã¿ÉÒÔÊäÈë/loadmap test À´¼ÓÔØ¸Õ²Å¹Ø±ÕµÄµØÍ¼£¬È»ºó/exportmap ¶ÔµØÍ¼½øÐÐµ¼³ö£¬µ¼³öÀ´µÄÎÄ¼þ»á´¢´æÔÚexportÎÄ¼þ¼ÐÀï
 
-è¿›é˜¶æ–¹æ³•ï¼š
-ç”¨M60å°„å‡»å»ºç­‘å°±å¯ä»¥é€‰æ‹©ç¼–è¾‘è¿™ä¸ªå»ºç­‘
-å½“é€»è¾‘ä¸ºAbsoluteæ—¶ï¼ŒæŽ§åˆ¶æ–¹æ³•å’ŒVCCCæœåŠ¡å™¨ç›¸åŒ
+½ø½×·½·¨£º
+ÓÃM60Éä»÷½¨Öþ¾Í¿ÉÒÔÑ¡Ôñ±à¼­Õâ¸ö½¨Öþ
+µ±Âß¼­ÎªAbsoluteÊ±£¬¿ØÖÆ·½·¨ºÍVCCC·þÎñÆ÷ÏàÍ¬
 
-æ¨¡åž‹IDå¦‚ä½•èŽ·å–ï¼Ÿ
-ä½ å¯ä»¥å°„å‡»åŽŸç‰ˆå»ºç­‘æ¥èŽ·å¾—è¿™ä¸ªå»ºç­‘çš„æ¨¡åž‹IDï¼Œæœ‰å°éƒ¨åˆ†æ— æ³•æ˜¾ç¤ºï¼Œä¾‹å¦‚è·¯ç¯ï¼Œè½¦åº“é—¨ç­‰ã€‚
-ä½ å¯ä»¥é€šè¿‡æµè§ˆhttp://wiki.thijn.ovh/index.php?title=Pickup_Models æ¥èŽ·å¾—ä¸€äº›å¸¸è§çš„å»ºç­‘IDã€‚
-ä½ å¯ä»¥é€šè¿‡Mooå·¥å…·ï¼ŒMEDå·¥å…·å’ŒKEDå·¥å…·æ¥èŽ·å¾—æ‰€æœ‰å»ºç­‘æ¨¡åž‹çš„IDï¼Œ
-KEDä¸‹è½½åœ°å€ï¼šhttps://www.gtagarage.com/mods/show.php?id=8322
-Mooä¸‹è½½åœ°å€ï¼šhttp://vctools.ysepan.com  MODåˆ¶ä½œåŠä¿®æ”¹å·¥å…· -> åœ°å›¾ç¼–è¾‘å·¥å…· -> MooMapperæ±‰åŒ–ç‰ˆ
-MEDå·¥å…·æ•™ç¨‹ï¼šhttps://www.bilibili.com/video/BV11h411a7hk/?spm_id_from=333.337.search-card.all.click&vd_source=531dc841c9b5063028ae1eaaa09e994d
-IPLåˆ°Nutæˆ–XMLçš„è½¬æ¢ï¼šhttps://thijn.minelord.com/vcmp/iplConvert/  å¤åˆ¶IPLçš„ä»£ç åˆ°è¿™é‡Œï¼Œå¯ä»¥è½¬æ¢å‡ºNutæ ¼å¼æˆ–XMLæ ¼å¼çš„ä»£ç ï¼Œæ³¨æ„ä¸è¦æ—‹è½¬ä¸‹æ–¹çš„ä¿®å¤KEDæ—‹è½¬
+Ä£ÐÍIDÈçºÎ»ñÈ¡£¿
+Äã¿ÉÒÔÉä»÷Ô­°æ½¨ÖþÀ´»ñµÃÕâ¸ö½¨ÖþµÄÄ£ÐÍID£¬ÓÐÐ¡²¿·ÖÎÞ·¨ÏÔÊ¾£¬ÀýÈçÂ·µÆ£¬³µ¿âÃÅµÈ¡£
+Äã¿ÉÒÔÍ¨¹ýä¯ÀÀhttp://wiki.thijn.ovh/index.php?title=Pickup_Models À´»ñµÃÒ»Ð©³£¼ûµÄ½¨ÖþID¡£
+Äã¿ÉÒÔÍ¨¹ýMoo¹¤¾ß£¬MED¹¤¾ßºÍKED¹¤¾ßÀ´»ñµÃËùÓÐ½¨ÖþÄ£ÐÍµÄID£¬
+KEDÏÂÔØµØÖ·£ºhttps://www.gtagarage.com/mods/show.php?id=8322
+MooÏÂÔØµØÖ·£ºhttp://vctools.ysepan.com  MODÖÆ×÷¼°ÐÞ¸Ä¹¤¾ß -> µØÍ¼±à¼­¹¤¾ß -> MooMapperºº»¯°æ
+MED¹¤¾ß½Ì³Ì£ºhttps://www.bilibili.com/video/BV11h411a7hk/?spm_id_from=333.337.search-card.all.click&vd_source=531dc841c9b5063028ae1eaaa09e994d
+IPLµ½Nut»òXMLµÄ×ª»»£ºhttps://thijn.minelord.com/vcmp/iplConvert/  ¸´ÖÆIPLµÄ´úÂëµ½ÕâÀï£¬¿ÉÒÔ×ª»»³öNut¸ñÊ½»òXML¸ñÊ½µÄ´úÂë£¬×¢Òâ²»ÒªÐý×ªÏÂ·½µÄÐÞ¸´KEDÐý×ª
 
-æŒ‡ä»¤è¡¨ï¼š
-/fps â€”â€” æŸ¥çœ‹FPS
-/pos â€”â€” æŸ¥çœ‹çŽ©å®¶åæ ‡å’Œè§’åº¦
-/s â€”â€” ä¿å­˜å¹¶ä¸”å¯¼å‡ºåæ ‡
-/fly â€”â€” å¼€å¯æˆ–å…³é—­é£žè¡ŒåŠŸèƒ½
-/autosave â€”â€” å¼€å¯æˆ–å…³é—­è‡ªåŠ¨ä¿å­˜åŠŸèƒ½ï¼ŒæœåŠ¡å™¨æ¯éš”5åˆ†é’Ÿä¼šä¿å­˜å½“å‰åœ°å›¾
-/cc <è½½å…·åç§°/æ¨¡åž‹ID> â€”â€” åˆ›å»ºè½½å…·ï¼ŒW+é¼ æ ‡å³é”®ï¼Œå¯ä»¥å¿«é€Ÿåˆ›å»ºPCJ600
-/fix â€”â€” ä¿®è½¦
-/ff â€”â€” ç¿»è½¬è½¦è¾†
-/hide â€”â€” ä½¿ç”¨åŽä¸‹ä¸€æ¬¡å°„å‡»å¯ä»¥éšè—æŽ‰å‘½ä¸­çš„åŽŸæœ¬å»ºç­‘
-/hidelist â€”â€” æ˜¾ç¤ºä¸€ä¸ªåˆ—è¡¨ï¼Œå…¶ä¸­åŒ…å«æ‰€æœ‰éšè—çš„åŽŸæœ¬å»ºç­‘çš„IDå’Œæ¨¡åž‹ID
-/show <ID/All> â€”â€” ç”¨äºŽæ¢å¤éšè—çš„åŽŸç‰ˆå»ºç­‘ï¼ŒAllä¸ºæ¢å¤å…¨éƒ¨
-/setcross <0~150> â€”â€” è®¾ç½®ç¼–è¾‘å¤šä¸ªå»ºç­‘æ—¶ï¼Œç›®æ ‡å‡†å¿ƒçš„æœ€å¤§æ•°é‡ï¼Œä¸º0çš„æ—¶å€™ï¼Œå¯ä»¥å…³é—­è¿™ä¸ªåŠŸèƒ½
-/setcpos â€”â€” è®¾ç½®è¶…çº§æ—‹è½¬æ—¶ï¼Œç»å¯¹ç¼–è¾‘ç‚¹
-/exec <ä»£ç > â€”â€” æœåŠ¡å™¨å¼€å‘è€…å¿…å¤‡æŒ‡ä»¤ï¼Œè¿™é‡Œä¸åšè§£é‡Š
-/cmds â€”â€” æŸ¥çœ‹æœåŠ¡å™¨æ‰€æœ‰æŒ‡ä»¤
+Ö¸Áî±í£º
+/fps ¡ª¡ª ²é¿´FPS
+/pos ¡ª¡ª ²é¿´Íæ¼Ò×ø±êºÍ½Ç¶È
+/s ¡ª¡ª ±£´æ²¢ÇÒµ¼³ö×ø±ê
+/fly ¡ª¡ª ¿ªÆô»ò¹Ø±Õ·ÉÐÐ¹¦ÄÜ
+/autosave ¡ª¡ª ¿ªÆô»ò¹Ø±Õ×Ô¶¯±£´æ¹¦ÄÜ£¬·þÎñÆ÷Ã¿¸ô5·ÖÖÓ»á±£´æµ±Ç°µØÍ¼
+/cc <ÔØ¾ßÃû³Æ/Ä£ÐÍID> ¡ª¡ª ´´½¨ÔØ¾ß£¬W+Êó±êÓÒ¼ü£¬¿ÉÒÔ¿ìËÙ´´½¨PCJ600
+/fix ¡ª¡ª ÐÞ³µ
+/ff ¡ª¡ª ·­×ª³µÁ¾
+/hide ¡ª¡ª Ê¹ÓÃºóÏÂÒ»´ÎÉä»÷¿ÉÒÔÒþ²ØµôÃüÖÐµÄÔ­±¾½¨Öþ
+/hidelist ¡ª¡ª ÏÔÊ¾Ò»¸öÁÐ±í£¬ÆäÖÐ°üº¬ËùÓÐÒþ²ØµÄÔ­±¾½¨ÖþµÄIDºÍÄ£ÐÍID
+/show <ID/All> ¡ª¡ª ÓÃÓÚ»Ö¸´Òþ²ØµÄÔ­°æ½¨Öþ£¬AllÎª»Ö¸´È«²¿
+/setcross <0~150> ¡ª¡ª ÉèÖÃ±à¼­¶à¸ö½¨ÖþÊ±£¬Ä¿±ê×¼ÐÄµÄ×î´óÊýÁ¿£¬Îª0µÄÊ±ºò£¬¿ÉÒÔ¹Ø±ÕÕâ¸ö¹¦ÄÜ
+/setcpos ¡ª¡ª ÉèÖÃ³¬¼¶Ðý×ªÊ±£¬¾ø¶Ô±à¼­µã
+/exec <´úÂë> ¡ª¡ª ·þÎñÆ÷¿ª·¢Õß±Ø±¸Ö¸Áî£¬ÕâÀï²»×ö½âÊÍ
+/cmds ¡ª¡ª ²é¿´·þÎñÆ÷ËùÓÐÖ¸Áî
 
-/createmap <åœ°å›¾åå­—> â€”â€” åˆ›å»ºä¸€å¼ åœ°å›¾ï¼Œä½ å¿…é¡»å…ˆåˆ›å»ºåœ°å›¾æ‰èƒ½æ·»åŠ å»ºç­‘
-/loadmap <åœ°å›¾åå­—> â€”â€” åŠ è½½å·²ç»åˆ›å»ºçš„åœ°å›¾
-/savemap â€”â€” ä¿å­˜å½“å‰çš„åœ°å›¾
-/abandmap â€”â€” å…³é—­åœ°å›¾
-/closemap â€”â€” ä¿å­˜å¹¶ä¸”å…³é—­å½“å‰åœ°å›¾ï¼Œå½“ä½ æ— æ³•åˆ›å»ºæˆ–åŠ è½½åœ°å›¾æ—¶ï¼Œä½ è‚¯å®šæ˜¯æ²¡æœ‰å…³é—­å½“å‰çš„åœ°å›¾
-/exportmap â€”â€” ä¿å­˜å¹¶ä¸”å¯¼å‡ºå½“å‰åœ°å›¾ï¼Œå°†åœ°å›¾ä¸Šçš„æ‰€æœ‰å»ºç­‘å¯¼å‡ºä»£ç æ”¾åœ¨exportæ–‡ä»¶å¤¹é‡Œï¼Œå¯¼å‡ºåŽä¼šå…³é—­åœ°å›¾
-/maplist â€”â€” æŸ¥çœ‹æ‰€æœ‰å·²ç»åˆ›å»ºçš„åœ°å›¾
+/createmap <µØÍ¼Ãû×Ö> ¡ª¡ª ´´½¨Ò»ÕÅµØÍ¼£¬Äã±ØÐëÏÈ´´½¨µØÍ¼²ÅÄÜÌí¼Ó½¨Öþ
+/loadmap <µØÍ¼Ãû×Ö> ¡ª¡ª ¼ÓÔØÒÑ¾­´´½¨µÄµØÍ¼
+/savemap ¡ª¡ª ±£´æµ±Ç°µÄµØÍ¼
+/abandmap ¡ª¡ª ¹Ø±ÕµØÍ¼
+/closemap ¡ª¡ª ±£´æ²¢ÇÒ¹Ø±Õµ±Ç°µØÍ¼£¬µ±ÄãÎÞ·¨´´½¨»ò¼ÓÔØµØÍ¼Ê±£¬Äã¿Ï¶¨ÊÇÃ»ÓÐ¹Ø±Õµ±Ç°µÄµØÍ¼
+/exportmap ¡ª¡ª ±£´æ²¢ÇÒµ¼³öµ±Ç°µØÍ¼£¬½«µØÍ¼ÉÏµÄËùÓÐ½¨Öþµ¼³ö´úÂë·ÅÔÚexportÎÄ¼þ¼ÐÀï£¬µ¼³öºó»á¹Ø±ÕµØÍ¼
+/maplist ¡ª¡ª ²é¿´ËùÓÐÒÑ¾­´´½¨µÄµØÍ¼
 
-/addobj <å»ºç­‘ç‰©ID> â€”â€” ä¸ºä½ çš„åœ°å›¾æ·»åŠ å»ºç­‘ç‰©
-/dofile <æ–‡ä»¶å> â€”â€” åŠ è½½ä¸€å¼ å¯¼å‡ºæ¥çš„åœ°å›¾å»ºç­‘åˆ°å½“å‰åœ°å›¾ä¸Š
-/copy <æ–¹å‘> <æ•°é‡> <é—´éš”> â€”â€” å¤åˆ¶æ‰¹é‡çš„å»ºç­‘ç‰©ï¼Œæ–¹å‘ä¸ºbefore after left right up down
-/saveobj â€”â€” ä¿å­˜ä¸€ä¸‹ä½ æ­£åœ¨ç¼–è¾‘çš„å»ºç­‘ç‰©
-/setalpha <0è‡³255> â€”â€” è®¾ç½®ä½ æ­£åœ¨ç¼–è¾‘å»ºç­‘çš„é€æ˜Žåº¦
-/selectobj â€”â€” ä¾‹å¦‚ä¸€äº›æ …æ çš„å»ºç­‘ç‰©ï¼Œä½ æ— æ³•é€šè¿‡å°„å‡»é€‰æ‹©å®ƒï¼Œé‚£ä¹ˆä½ å°±å¯ä»¥ä½¿ç”¨è¿™ä¸ªæŒ‡ä»¤æ¥é€‰æ‹©è·ç¦»ä½ æœ€è¿‘çš„å»ºç­‘ç‰©
+/addobj <½¨ÖþÎïID> ¡ª¡ª ÎªÄãµÄµØÍ¼Ìí¼Ó½¨ÖþÎï
+/dofile <ÎÄ¼þÃû> ¡ª¡ª ¼ÓÔØÒ»ÕÅµ¼³öÀ´µÄµØÍ¼½¨Öþµ½µ±Ç°µØÍ¼ÉÏ
+/copy <·½Ïò> <ÊýÁ¿> <¼ä¸ô> ¡ª¡ª ¸´ÖÆÅúÁ¿µÄ½¨ÖþÎï£¬·½ÏòÎªbefore after left right up down
+/saveobj ¡ª¡ª ±£´æÒ»ÏÂÄãÕýÔÚ±à¼­µÄ½¨ÖþÎï
+/setalpha <0ÖÁ255> ¡ª¡ª ÉèÖÃÄãÕýÔÚ±à¼­½¨ÖþµÄÍ¸Ã÷¶È
+/selectobj ¡ª¡ª ÀýÈçÒ»Ð©Õ¤À¸µÄ½¨ÖþÎï£¬ÄãÎÞ·¨Í¨¹ýÉä»÷Ñ¡ÔñËü£¬ÄÇÃ´Äã¾Í¿ÉÒÔÊ¹ÓÃÕâ¸öÖ¸ÁîÀ´Ñ¡Ôñ¾àÀëÄã×î½üµÄ½¨ÖþÎï
 
-æŒ‰é”®ï¼š
-ä¸Šä¸‹å·¦å³ â€”â€” çŽ©å®¶åœ¨é£žè¡Œæ¨¡å¼ä¸‹å¯ä»¥å‰åŽå·¦å³é£žè¡Œï¼Œå½“ç¼–è¾‘ç‰©ä½“æ—¶ï¼Œå¯ä»¥æŽ§åˆ¶ç‰©ä½“è¿›è¡Œå‰åŽå·¦å³ç§»åŠ¨
-PageUpå’ŒPageDown â€”â€” çŽ©å®¶åœ¨é£žè¡Œæ¨¡å¼ä¸‹å¯ä»¥ä¸Šå‡æˆ–ä¸‹é™ï¼Œå½“ç¼–è¾‘ç‰©ä½“æ—¶ï¼Œå¯ä»¥æŽ§åˆ¶ç‰©ä½“è¿›è¡Œä¸Šä¸‹ç§»åŠ¨
-Shiftå’ŒAlt â€”â€” åŠ å¿«å’Œå‡æ…¢æŽ§åˆ¶é€Ÿåº¦
-1 â€”â€” åˆ‡æ¢é£žè¡Œé€Ÿåº¦æŒ¡ä½ï¼Œåˆ†åˆ«æ˜¯0.0625ï¼Œ0.125ï¼Œ0.25ï¼Œ0.75ï¼Œ1ï¼Œ1.5ï¼Œ2.25ï¼Œ3.5ï¼Œ5ï¼Œé»˜è®¤æ˜¯1ï¼Œç‰©ä½“çš„æŽ§åˆ¶ä¹Ÿä¼šå—åˆ°è¿™ä¸ªæŒ¡ä½å½±å“
-2 â€”â€” åˆ‡æ¢ç‰©ä½“ç¼–è¾‘æ¨¡å¼ï¼Œç§»åŠ¨æ¨¡å¼å’Œæ—‹è½¬æ¨¡å¼ä¹‹é—´æ¥å›žåˆ‡æ¢ï¼Œé£žè¡Œæ¨¡å¼6ä¸ªæŒ‰é”®ä¼šåˆ†åˆ«è°ƒæ•´æ—‹è½¬çš„3ä¸ªè½´
-3 â€”â€” åˆ‡æ¢ç‰©ä½“ç¼–è¾‘é€»è¾‘ï¼Œå½“é€»è¾‘ä¸ºRelativeæ—¶ï¼Œæ˜¯ç›¸å¯¹çŽ©å®¶ï¼ŒæŽ§åˆ¶æ–¹å‘æ˜¯çŽ©å®¶é¢æœæ–¹å‘ï¼ŒæŒ‰Wä¼šå‘çŽ©å®¶é¢æœçš„å‰æ–¹ç§»åŠ¨ï¼Œå½“é€»è¾‘ä¸ºAbsoluteæ—¶ï¼Œæ˜¯ç»å¯¹ä¸–ç•Œï¼ŒæŽ§åˆ¶æ–¹å‘æ˜¯ä¸œå—è¥¿åŒ—ï¼ŒæŒ‰Wä¼šå‘åŒ—ç§»åŠ¨
-4 â€”â€” å¼€å¯æˆ–å…³é—­è¶…çº§æ—‹è½¬æ¨¡å¼
-BackSpace â€”â€” å–æ¶ˆç¼–è¾‘è¿™ä¸ªç‰©ä½“ï¼Œæ³¨æ„ï¼šå–æ¶ˆåŽä¸ä¼šè‡ªåŠ¨ä¿å­˜
-Delete â€”â€” åˆ é™¤æ­£åœ¨ç¼–è¾‘çš„ç‰©ä½“ï¼Œæ³¨æ„ï¼šåˆ é™¤åŽæ— æ³•æ¢å¤
-Ctrl+C â€”â€” å¤åˆ¶ä¸€ä»½ä½ æ­£åœ¨ç¼–è¾‘çš„ç‰©ä½“ï¼ŒåŒæ—¶æ—‹è½¬ä½ å¤åˆ¶çš„é‚£ä¸ªå»ºç­‘
-W+é¼ æ ‡å³é”® â€”â€” å¿«é€Ÿåˆ·å‡ºä¸€è¾†PCJ
+°´¼ü£º
+ÉÏÏÂ×óÓÒ ¡ª¡ª Íæ¼ÒÔÚ·ÉÐÐÄ£Ê½ÏÂ¿ÉÒÔÇ°ºó×óÓÒ·ÉÐÐ£¬µ±±à¼­ÎïÌåÊ±£¬¿ÉÒÔ¿ØÖÆÎïÌå½øÐÐÇ°ºó×óÓÒÒÆ¶¯
+PageUpºÍPageDown ¡ª¡ª Íæ¼ÒÔÚ·ÉÐÐÄ£Ê½ÏÂ¿ÉÒÔÉÏÉý»òÏÂ½µ£¬µ±±à¼­ÎïÌåÊ±£¬¿ÉÒÔ¿ØÖÆÎïÌå½øÐÐÉÏÏÂÒÆ¶¯
+ShiftºÍAlt ¡ª¡ª ¼Ó¿ìºÍ¼õÂý¿ØÖÆËÙ¶È
+1 ¡ª¡ª ÇÐ»»·ÉÐÐËÙ¶Èµ²Î»£¬·Ö±ðÊÇ0.0625£¬0.125£¬0.25£¬0.75£¬1£¬1.5£¬2.25£¬3.5£¬5£¬Ä¬ÈÏÊÇ1£¬ÎïÌåµÄ¿ØÖÆÒ²»áÊÜµ½Õâ¸öµ²Î»Ó°Ïì
+2 ¡ª¡ª ÇÐ»»ÎïÌå±à¼­Ä£Ê½£¬ÒÆ¶¯Ä£Ê½ºÍÐý×ªÄ£Ê½Ö®¼äÀ´»ØÇÐ»»£¬·ÉÐÐÄ£Ê½6¸ö°´¼ü»á·Ö±ðµ÷ÕûÐý×ªµÄ3¸öÖá
+3 ¡ª¡ª ÇÐ»»ÎïÌå±à¼­Âß¼­£¬µ±Âß¼­ÎªRelativeÊ±£¬ÊÇÏà¶ÔÍæ¼Ò£¬¿ØÖÆ·½ÏòÊÇÍæ¼ÒÃæ³¯·½Ïò£¬°´W»áÏòÍæ¼ÒÃæ³¯µÄÇ°·½ÒÆ¶¯£¬µ±Âß¼­ÎªAbsoluteÊ±£¬ÊÇ¾ø¶ÔÊÀ½ç£¬¿ØÖÆ·½ÏòÊÇ¶«ÄÏÎ÷±±£¬°´W»áÏò±±ÒÆ¶¯
+4 ¡ª¡ª ¿ªÆô»ò¹Ø±Õ³¬¼¶Ðý×ªÄ£Ê½
+BackSpace ¡ª¡ª È¡Ïû±à¼­Õâ¸öÎïÌå£¬×¢Òâ£ºÈ¡Ïûºó²»»á×Ô¶¯±£´æ
+Delete ¡ª¡ª É¾³ýÕýÔÚ±à¼­µÄÎïÌå£¬×¢Òâ£ºÉ¾³ýºóÎÞ·¨»Ö¸´
+Ctrl+C ¡ª¡ª ¸´ÖÆÒ»·ÝÄãÕýÔÚ±à¼­µÄÎïÌå£¬Í¬Ê±Ðý×ªÄã¸´ÖÆµÄÄÇ¸ö½¨Öþ
+W+Êó±êÓÒ¼ü ¡ª¡ª ¿ìËÙË¢³öÒ»Á¾PCJ
 
-æ³¨æ„äº‹é¡¹ï¼š
-è¯·ä¸è¦åˆ é™¤exportæ–‡ä»¶å¤¹ï¼Œå¦åˆ™åœ°å›¾å°†æ— æ³•å¯¼å‡ºï¼
-è¯·ä¸è¦åˆ é™¤databaseæ–‡ä»¶ï¼Œåœ°å›¾ä¸Šçš„æ‰€æœ‰å»ºç­‘éƒ½ä¿å­˜åœ¨è¿™ä¸ªæ–‡ä»¶é‡Œï¼Œå¦‚æžœä¸å°å¿ƒåˆ é™¤äº†ï¼Œä¸ç”¨æ‹…å¿ƒï¼Œå†æ¬¡å¯åŠ¨server64.exeï¼Œä¼šé‡æ–°åˆ›å»ºä¸€ä¸ªç©ºç™½çš„databaseæ–‡ä»¶ã€‚
-æœ€å¥½ä¸è¦æ·»åŠ æ­¦å™¨å»ºç­‘ï¼Œä¾‹å¦‚ID277ï¼Œè¿™å°†å¯¼è‡´xmlæ–‡ä»¶æ— æ³•åŠ è½½
+×¢ÒâÊÂÏî£º
+Çë²»ÒªÉ¾³ýexportÎÄ¼þ¼Ð£¬·ñÔòµØÍ¼½«ÎÞ·¨µ¼³ö£¡
+Çë²»ÒªÉ¾³ýdatabaseÎÄ¼þ£¬µØÍ¼ÉÏµÄËùÓÐ½¨Öþ¶¼±£´æÔÚÕâ¸öÎÄ¼þÀï£¬Èç¹û²»Ð¡ÐÄÉ¾³ýÁË£¬²»ÓÃµ£ÐÄ£¬ÔÙ´ÎÆô¶¯server64.exe£¬»áÖØÐÂ´´½¨Ò»¸ö¿Õ°×µÄdatabaseÎÄ¼þ¡£
+×îºÃ²»ÒªÌí¼ÓÎäÆ÷½¨Öþ£¬ÀýÈçID277£¬Õâ½«µ¼ÖÂxmlÎÄ¼þÎÞ·¨¼ÓÔØ
 
-è¿™ä¸ªè¯´æ˜Žå¯èƒ½å‡ºçŽ°ä¸å…¨çš„æƒ…å†µï¼Œå¦‚å®žè¯·çœ‹æ›´æ–°è¯´æ˜Ž
+Õâ¸öËµÃ÷¿ÉÄÜ³öÏÖ²»È«µÄÇé¿ö£¬ÈçÊµÇë¿´¸üÐÂËµÃ÷
